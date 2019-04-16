@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+        <pattern>ALA</pattern> 
+        <template>
+            O, to jest ala!
+        </template>
+    </category>
+
+    <category>
+        <pattern> * ALA </pattern> 
+        <template>
+            <srai>ALA</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> ALA * </pattern> 
+        <template>
+            <srai>ALA</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> * ALA * </pattern> 
+        <template>
+            <srai>ALA</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> KOTEK </pattern> 
+        <template>
+            O, to jest kotek!
+        </template>
+    </category>
+
+    <category>
+        <pattern> * KOTEK </pattern> 
+        <template>
+            <srai>KOTEK</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> KOTEK * </pattern> 
+        <template>
+            <srai>KOTEK</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> * KOTEK * </pattern> 
+        <template>
+            <srai>KOTEK</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>AS</pattern> 
+        <template>
+            O, to jest as!
+        </template>
+    </category>
+
+    <category>
+        <pattern> * AS </pattern> 
+        <template>
+            <srai>AS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> AS * </pattern> 
+        <template>
+            <srai>AS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern> * AS * </pattern> 
+        <template>
+            <srai>AS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>*</pattern> 
+        <template>
+            Nikogo nie ma!
+        </template>
+    </category>
+</aiml>
+    

@@ -1,0 +1,63 @@
+<aiml>
+    <category>
+        <pattern>LOSUJ</pattern>
+        <template>
+            <random>
+                <li>hej</li>
+                <li>ha</li>
+                <li>ho</li>
+                <li>hejże</li>
+                <li>hola</li>
+            </random>
+            
+            <random>
+                <li>hej</li>
+                <li>ha</li>
+                <li>ho</li>
+                <li>hejże</li>
+                <li>hola</li>
+            </random>
+            
+            <random>
+                <li>hej</li>
+                <li>ha</li>
+                <li>ho</li>
+                <li>hejże</li>
+                <li>hola</li>
+            </random>
+
+            <random>
+                <li>hej</li>
+                <li>ha</li>
+                <li>ho</li>
+                <li>hejże</li>
+                <li>hola</li>
+            </random>
+            
+            <random>
+                <li>hej</li>
+                <li>ha</li>
+                <li>ho</li>
+                <li>hejże</li>
+                <li>hola</li>
+            </random>
+            bum
+        </template>
+    </category>
+
+    <category>
+        <pattern>LOSUJ *</pattern>
+        <template><srai>LOSUJ</srai></template>
+    </category>
+
+    <category>
+        <pattern>_ LOSUJ</pattern>
+        <template><srai>LOSUJ</srai></template>
+    </category>
+
+    <category>
+        <pattern>_ LOSUJ *</pattern>
+        <template><srai>LOSUJ</srai></template>
+    </category>
+    
+</aiml>

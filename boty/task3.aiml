@@ -1,0 +1,11 @@
+<aiml>
+
+<category>
+      <pattern>*</pattern>
+      <template>
+         Powiedziales do tej pory:<set name = "x"><star/> <get name= "x"/></set>
+      </template>  
+   </category>  
+   
+
+</aiml>

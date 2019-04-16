@@ -1,0 +1,50 @@
+#lang racket
+(define (identity x) x)
+
+(define (inc x)
+  (+ x 1))
+
+(define (square x)
+  (* x x))
+
+(define (compose f g)
+  (lambda (x) (f (g x))))
+
+(define (repeated p n)
+  (if (= n 0)
+      (lambda (x) x)
+      (compose p (repeated p (- n 1)))))
+
+(define sum
+  (lambda (term next s e)
+    (if (> s e)
+        0
+        (+ (term s) (sum term next (next s) e)))))
+
+(define product
+  (lambda (term next s e)
+    (if (> s e)
+        1
+        (* (term s) (product term next (next s) e)))))
+
+(define (product-iter term next s e)
+  (define (iter x y)
+    (if (> x e)
+        y
+        (iter (next x) (* (term x) y))))
+  (iter s 1))
+
+(define (pi-pro a b)
+  (if (> a b)
+      1
+      (* (/ (* a (+ a 2)) (square (inc a)))
+         (pi-pro (+ a 2) b))))
+
+(define (pi-prov2 s e)
+  (product (lambda (x) (/ (* x (+ x 2)) (square (inc x))))
+           (lambda (x) (+ x 2))
+           s
+           e))
+          
+ 
+(* 4 (pi-prov2 2.0 1000000))        

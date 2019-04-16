@@ -1,0 +1,20 @@
+#lang racket
+(define (gcd a b)
+  (if (= b 0)
+      a
+      (gcd b (modulo a b))))
+
+(define (make-rat n d)
+  (let ((g (gcd n d)))
+    (cons (/ n g) (cons (/ d g) null))))
+
+(define (rat-num x)
+  (car x))
+
+(define (rat-denom x)
+  (car (cdr x)))
+
+(define (rat? x)
+  (and (pair? x)
+       (not (= (rat-denom x) 0))
+       (= 1 (gcd (rat-num x) (rat-denom x)))))

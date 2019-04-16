@@ -1,0 +1,216 @@
+#lang racket
+(define (var? t)
+  (symbol? t))
+
+(define (neg? t)
+  (and (list? t)
+       (= 2 (length t))
+       (eq? 'neg (car t))))
+
+(define (conj? t)
+  (and (list? t)
+       (= 3 (length t))
+       (eq? 'conj (car t))))
+
+(define (disj? t)
+  (and (list? t)
+       (= 3 (length t))
+       (eq? 'disj (car t))))
+
+(define (prop? f)
+  (or (var? f)
+      (and (neg? f)
+           (prop? (neg-subf f)))
+      (and (disj? f)
+           (prop? (disj-left f))
+           (prop? (disj-rght f)))
+      (and (conj? f)
+           (prop? (conj-left f))
+           (prop? (conj-rght f)))))
+
+;;Konstruktory
+
+(define (neg t)
+  (list 'neg t))
+
+(define (disj t1 t2)
+  (list 'disj t1 t2))
+
+(define (conj t1 t2)
+  (list 'conj t1 t2))
+
+;;Selektory
+
+(define (neg-subf t)
+  (cadr t))
+
+(define (disj-left t)
+  (second t))
+
+(define (disj-rght t)
+  (third t))
+
+(define (conj-left t)
+  (second t))
+
+(define (conj-rght t)
+  (third t))
+
+;; free-vars
+
+(define (free-vars t)
+  (cond
+    [(var? t) (list t)]
+    [(neg? t) (free-vars (neg-subf t))]
+    [(conj? t) (append (free-vars (conj-left t))
+                       (free-vars (conj-rght t)))]
+    [(disj? t) (append (free-vars (disj-left t))
+                       (free-vars (disj-rght t)))]
+    [else (error "Unknown type")]))
+
+;;testy
+
+(free-vars (neg 'x))
+(free-vars (conj (conj (neg 'x) 'y) (disj (conj 'p (neg 'z)) 'w)))
+
+
+
+;; gen-vals
+
+(define (gen-vals xs)
+  (if (null? xs) (list null)
+      (let* ((vss (gen-vals (cdr xs)))
+             (x (car xs))
+             (vst (map (lambda (vs) (cons (list x true) vs)) vss))
+             (vsf (map (lambda (vs) (cons (list x false) vs)) vss )))
+        (append vst vsf))))
+
+
+(define example (list (cons 'x #t) (cons 'y #f)))
+
+;; zadanie 3
+
+
+(define (eval-formula f vals)
+  (define (find-val x vals)
+    (cond [(null? vals) (error "nothing to compare")]
+          [(eq? x (caar vals)) (cdar vals)]
+          [else (find-val x (cdr vals))]))  
+  (cond [(var? f ) (find-val f vals)]
+        [(neg? f) (not (eval-formula (neg-subf f) vals))]
+        [(conj? f) (and (eval-formula (conj-left f) vals))
+                        (eval-formula (conj-rght f) vals)]
+        [(disj? f) (or (eval-formula (disj-left f) vals)
+                       (eval-formula (disj-rght f) vals))]))
+
+
+(eval-formula (conj 'p 'q) (list (cons 'p #t) (cons 'q #f))); false
+(eval-formula (conj 'p 'q) (list (cons 'p #t) (cons 'q #t))); true
+(eval-formula (disj 'p 'q) (list (cons 'p #f) (cons 'q #f))); false
+(eval-formula (disj 'p 'q) (list (cons 'p #t) (cons 'q #f))); true
+(eval-formula (conj (disj 'p 'q) 'r) (list (cons 'p #t)
+                                           (cons 'q #f)
+                                           (cons 'r #t))); true
+
+;;przyjmuje formułe logiczną i zwraca wartóściowanie
+;;przy którym jest ona fałszywa lub false jeśli jest ona tautologią.
+
+
+#|
+(define (flatten t xs)
+  (if (leaf? t) xs
+      (flatten (node-left t))
+              (cons (node-elem t) (flatten (node-right t) xs))))
+
+|#
+(define (falsifiable-eval? f)
+  (let ((vals (gen-vals (free-vars f))))
+    (define (helper f vals)
+      (if (null? vals)
+          #f
+          (if (eq? #f (eval-formula f (car vals)))
+              (car vals)
+              (helper f (cdr vals)))))
+    (helper f vals)))
+
+
+
+;; zadanie 4
+#|
+(define (nnf? f)
+  (cond [(var? f) #t]
+        [(neg? f) (if (var? (neg-subf f))
+                      #t
+                      #f)]
+        [(conj? f) (and (nnf? (conj-left f))
+                        (nnf? (conj-rght f)))]
+        [(disj? f) (and (nnf? (disj-left f))
+                        (nnf? (disj-rght f)))]))
+
+(display "czy nnf?")
+(newline)
+(nnf? (conj 'p (neg 'q)))
+(nnf? (disj 'p (neg (conj 'q 'r))))
+|#
+
+(define (lit? l)
+  (and
+   (pair? l)
+   (booleam? (car l))
+   (symbol? (cdr l))))
+
+
+(define (nnf? f)
+  (cond
+    [(lit? f) #t]
+    [(conj? f) (and (nnf? (conj-left f)) (nnf? (conj-rght f)))]
+    [(disj? f) (and (nnf? (disj-left f)) (nnf? (disj-rght f)))]
+    [else
+     #f]))
+
+;;zadanie 5
+
+(define (convert-to-nnf f)
+  (cond [(var? f) (cons #f f)]
+        [(lit? f) f]
+        [(conj? f) (conj (convert-to-nnf (conj-left f)) (convert-to-nnf (conj-rght f)))]
+        [(disj? f) (disj (convert-to-nnf (disj-left f)) (convert-to-nnf (disj-rght f)))]
+        [(neg? f) (let ((g (neg-subf f))) (cond ([var? g] (cons #t g))
+                                                ([lit? g] (cons (not (car g)) (cdr g)))
+                                                ([conj? g] (disj (convert-to-nnf (neg (conj-left g))) (convert-to-nnf (neg (conj-rght g)))))
+                                                ([disj? g] (conj (convert-to-nnf (neg (disj-left g))) (convert-to-nnf (neg (disj-rght g)))))
+                                                ([neg? g] (convert-to-nnf (neg-subf g)))
+                                                (else (error "!"))))]
+        [else (error "!!")]))
+   
+
+
+;; zadanie 6
+
+(define(cnf? xs)
+  (define(only-disj v)
+    (or(lit? v )
+       (and(disj? v)
+          (and(only-disj(disj-left v))
+              (only-disj(disj-rght v))))))
+  (if(conj? xs)
+     (and(cnf?(conj-rght xs))(cnf?(conj-left xs)))
+     (only-disj xs)))
+
+(define (convert-to-cnf v)
+  (if (lit? v) v
+      (cond ([disj? v]
+             (let ([tr (convert-to-cnf (disj-rght v))]
+                   [tl (convert-to-cnf (disj-left v))])
+               (if (conj? tr)
+                   (make-conj (rep (make-disj tl (conj-left tr)))
+                              (rep (make-disj tl (conj-rght tr))))
+                   (if (conj? tl)
+                       (make-conj (rep (rep (make-disj (conj-left tl) tr))
+                                       (rep (make-disj (conj-rght tl) tr)))
+                                  (make-disj tr tl)))))
+             ([conj? v]
+              (let ([ tr (convert-to-cnf (conj-rght v))]
+                    [tl (convert-to-cnf (conj-left v))]
+                    (make-conj tl tr))))))))
+                       
