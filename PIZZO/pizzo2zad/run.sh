@@ -1,0 +1,1 @@
+python3 pizzo2v2.py

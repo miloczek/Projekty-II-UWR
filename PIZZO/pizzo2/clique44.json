@@ -1,0 +1,101 @@
+{
+  "studenci": 8,
+  "konflikty": [
+    {
+      "zrzeda": 0,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 6
+    }
+  ]
+}

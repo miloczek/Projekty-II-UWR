@@ -1,0 +1,27 @@
+{
+  "parametry": ["kalorie","bialko","zelazo"],
+  "składniki": [
+    {
+      "nazwa": "ziemniak",
+      "kalorie": 60.0,
+      "bialko": 2.02,
+      "zelazo": 0.74
+    },
+    {
+      "nazwa": "kostka czekolady",
+      "kalorie": 34.1,
+      "bialko": 0.3,
+      "zelazo": 0.5
+    }
+  ],
+  "konflikty": [
+    {
+      "nazwa1": "ziemniak", "nazwa2": "kostka czekolady"
+    }
+  ],
+  "cel": {
+    "kalorie": {"min": 470, "max": 480},
+    "bialko": {"min": 11.6, "max": 12},
+    "zelazo": {"min": 6.2, "max": 6.4}
+  }
+}

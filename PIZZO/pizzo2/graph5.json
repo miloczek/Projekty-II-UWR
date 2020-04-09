@@ -1,0 +1,1821 @@
+{
+  "studenci": 40,
+  "konflikty": [
+    {
+      "zrzeda": 0,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 0,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 1,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 2,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 3,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 4,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 5,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 6,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 7,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 8,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 9,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 10,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 11,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 12,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 13,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 14,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 15,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 16,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 17,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 18,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 19,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 20,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 21,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 22,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 23,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 24,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 25,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 26,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 27,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 28,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 29,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 30,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 7
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 31,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 10
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 32,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 30
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 5
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 36
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 33,
+      "nielubiany": 35
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 34,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 12
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 23
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 35,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 11
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 14
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 19
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 33
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 17
+    },
+    {
+      "zrzeda": 36,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 15
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 22
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 26
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 28
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 31
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 32
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 4
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 29
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 37,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 0
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 2
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 9
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 27
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 20
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 24
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 8
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 37
+    },
+    {
+      "zrzeda": 38,
+      "nielubiany": 39
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 3
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 6
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 16
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 21
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 34
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 38
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 1
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 13
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 18
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 25
+    },
+    {
+      "zrzeda": 39,
+      "nielubiany": 27
+    }
+  ]
+}

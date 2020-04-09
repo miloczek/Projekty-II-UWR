@@ -1,0 +1,3274 @@
+{
+  "parametry": [
+    "cholesterol",
+    "tluszcz",
+    "zelazo",
+    "weglowodany"
+  ],
+  "składniki": [
+    {
+      "cholesterol": 9.7,
+      "tluszcz": 4.3,
+      "zelazo": 3.2,
+      "weglowodany": 9.1,
+      "nazwa": "wvevliou"
+    },
+    {
+      "cholesterol": 6.1,
+      "tluszcz": 4.0,
+      "zelazo": 8.6,
+      "weglowodany": 6.8,
+      "nazwa": "jnzykeqts"
+    },
+    {
+      "cholesterol": 1.7,
+      "tluszcz": 8.2,
+      "zelazo": 5.4,
+      "weglowodany": 6.0,
+      "nazwa": "fjobnncvt"
+    },
+    {
+      "cholesterol": 1.0,
+      "tluszcz": 3.5,
+      "zelazo": 0.2,
+      "weglowodany": 1.2,
+      "nazwa": "uerzppenbn"
+    },
+    {
+      "cholesterol": 7.5,
+      "tluszcz": 5.9,
+      "zelazo": 1.0,
+      "weglowodany": 1.3,
+      "nazwa": "tsiybejnry"
+    },
+    {
+      "cholesterol": 5.8,
+      "tluszcz": 4.6,
+      "zelazo": 7.5,
+      "weglowodany": 9.3,
+      "nazwa": "lofeygj"
+    },
+    {
+      "cholesterol": 7.9,
+      "tluszcz": 7.1,
+      "zelazo": 2.1,
+      "weglowodany": 0.3,
+      "nazwa": "qxavjyf"
+    },
+    {
+      "cholesterol": 1.0,
+      "tluszcz": 8.2,
+      "zelazo": 8.6,
+      "weglowodany": 7.0,
+      "nazwa": "jnrxwq"
+    },
+    {
+      "cholesterol": 7.9,
+      "tluszcz": 6.6,
+      "zelazo": 0.7,
+      "weglowodany": 0.3,
+      "nazwa": "dkgulxg"
+    },
+    {
+      "cholesterol": 7.9,
+      "tluszcz": 9.1,
+      "zelazo": 9.2,
+      "weglowodany": 2.5,
+      "nazwa": "qgpfig"
+    },
+    {
+      "cholesterol": 3.7,
+      "tluszcz": 3.9,
+      "zelazo": 7.6,
+      "weglowodany": 8.7,
+      "nazwa": "pmrhkon"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 9.3,
+      "zelazo": 1.5,
+      "weglowodany": 7.8,
+      "nazwa": "uprdu"
+    },
+    {
+      "cholesterol": 7.8,
+      "tluszcz": 3.4,
+      "zelazo": 6.0,
+      "weglowodany": 1.6,
+      "nazwa": "pgyxbr"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 4.0,
+      "zelazo": 8.4,
+      "weglowodany": 7.5,
+      "nazwa": "rrrgatyouz"
+    },
+    {
+      "cholesterol": 9.4,
+      "tluszcz": 9.7,
+      "zelazo": 7.1,
+      "weglowodany": 5.8,
+      "nazwa": "nkcavoren"
+    },
+    {
+      "cholesterol": 7.9,
+      "tluszcz": 4.8,
+      "zelazo": 1.6,
+      "weglowodany": 2.6,
+      "nazwa": "xwpltisq"
+    },
+    {
+      "cholesterol": 3.2,
+      "tluszcz": 9.1,
+      "zelazo": 9.6,
+      "weglowodany": 9.3,
+      "nazwa": "hsbbi"
+    },
+    {
+      "cholesterol": 1.6,
+      "tluszcz": 6.2,
+      "zelazo": 6.9,
+      "weglowodany": 7.9,
+      "nazwa": "niyel"
+    },
+    {
+      "cholesterol": 4.9,
+      "tluszcz": 5.4,
+      "zelazo": 0.5,
+      "weglowodany": 3.7,
+      "nazwa": "pjiprbscrk"
+    },
+    {
+      "cholesterol": 6.9,
+      "tluszcz": 0.5,
+      "zelazo": 9.8,
+      "weglowodany": 9.4,
+      "nazwa": "iyaodddpw"
+    },
+    {
+      "cholesterol": 4.5,
+      "tluszcz": 7.6,
+      "zelazo": 6.5,
+      "weglowodany": 9.8,
+      "nazwa": "woxhaq"
+    },
+    {
+      "cholesterol": 8.0,
+      "tluszcz": 4.4,
+      "zelazo": 2.4,
+      "weglowodany": 6.1,
+      "nazwa": "esnhimoy"
+    },
+    {
+      "cholesterol": 1.8,
+      "tluszcz": 6.5,
+      "zelazo": 2.5,
+      "weglowodany": 7.5,
+      "nazwa": "istlbbwp"
+    },
+    {
+      "cholesterol": 6.3,
+      "tluszcz": 9.2,
+      "zelazo": 1.3,
+      "weglowodany": 2.5,
+      "nazwa": "dulmgcmac"
+    },
+    {
+      "cholesterol": 3.5,
+      "tluszcz": 6.8,
+      "zelazo": 4.4,
+      "weglowodany": 6.6,
+      "nazwa": "lwrzx"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 10.0,
+      "zelazo": 3.1,
+      "weglowodany": 2.0,
+      "nazwa": "raxycbzu"
+    },
+    {
+      "cholesterol": 9.0,
+      "tluszcz": 5.6,
+      "zelazo": 4.5,
+      "weglowodany": 7.7,
+      "nazwa": "omqwpnjj"
+    },
+    {
+      "cholesterol": 2.7,
+      "tluszcz": 7.9,
+      "zelazo": 5.5,
+      "weglowodany": 3.2,
+      "nazwa": "dmobnkk"
+    },
+    {
+      "cholesterol": 7.3,
+      "tluszcz": 3.3,
+      "zelazo": 4.7,
+      "weglowodany": 4.0,
+      "nazwa": "thjqrsya"
+    },
+    {
+      "cholesterol": 5.5,
+      "tluszcz": 9.4,
+      "zelazo": 6.9,
+      "weglowodany": 5.2,
+      "nazwa": "hzbnhvhwhu"
+    },
+    {
+      "cholesterol": 5.9,
+      "tluszcz": 3.1,
+      "zelazo": 8.5,
+      "weglowodany": 8.1,
+      "nazwa": "isygcewqa"
+    },
+    {
+      "cholesterol": 9.1,
+      "tluszcz": 7.3,
+      "zelazo": 9.2,
+      "weglowodany": 2.1,
+      "nazwa": "uheizqi"
+    },
+    {
+      "cholesterol": 5.5,
+      "tluszcz": 1.5,
+      "zelazo": 2.2,
+      "weglowodany": 4.5,
+      "nazwa": "sojgn"
+    },
+    {
+      "cholesterol": 3.5,
+      "tluszcz": 9.6,
+      "zelazo": 3.6,
+      "weglowodany": 7.8,
+      "nazwa": "tcbtzpg"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 7.7,
+      "zelazo": 3.4,
+      "weglowodany": 5.6,
+      "nazwa": "gzbliv"
+    },
+    {
+      "cholesterol": 7.1,
+      "tluszcz": 6.0,
+      "zelazo": 6.5,
+      "weglowodany": 6.2,
+      "nazwa": "ysvzgwnvyl"
+    },
+    {
+      "cholesterol": 5.2,
+      "tluszcz": 0.9,
+      "zelazo": 2.4,
+      "weglowodany": 9.1,
+      "nazwa": "xvitdjdvfv"
+    },
+    {
+      "cholesterol": 3.8,
+      "tluszcz": 5.0,
+      "zelazo": 5.5,
+      "weglowodany": 9.3,
+      "nazwa": "tqkmkbjbuw"
+    },
+    {
+      "cholesterol": 2.9,
+      "tluszcz": 4.7,
+      "zelazo": 4.9,
+      "weglowodany": 9.6,
+      "nazwa": "xidkc"
+    },
+    {
+      "cholesterol": 7.8,
+      "tluszcz": 6.5,
+      "zelazo": 2.4,
+      "weglowodany": 4.1,
+      "nazwa": "iwljosisk"
+    },
+    {
+      "cholesterol": 0.3,
+      "tluszcz": 7.2,
+      "zelazo": 3.2,
+      "weglowodany": 8.5,
+      "nazwa": "ubtla"
+    },
+    {
+      "cholesterol": 1.0,
+      "tluszcz": 0.2,
+      "zelazo": 8.0,
+      "weglowodany": 1.6,
+      "nazwa": "ilorcpife"
+    },
+    {
+      "cholesterol": 6.1,
+      "tluszcz": 7.9,
+      "zelazo": 5.7,
+      "weglowodany": 4.0,
+      "nazwa": "zxnrrwp"
+    },
+    {
+      "cholesterol": 3.4,
+      "tluszcz": 3.6,
+      "zelazo": 8.9,
+      "weglowodany": 1.2,
+      "nazwa": "doiyq"
+    },
+    {
+      "cholesterol": 0.9,
+      "tluszcz": 2.1,
+      "zelazo": 5.1,
+      "weglowodany": 9.9,
+      "nazwa": "xdktitb"
+    },
+    {
+      "cholesterol": 6.6,
+      "tluszcz": 3.1,
+      "zelazo": 6.3,
+      "weglowodany": 0.2,
+      "nazwa": "ghexfv"
+    },
+    {
+      "cholesterol": 0.9,
+      "tluszcz": 2.7,
+      "zelazo": 4.5,
+      "weglowodany": 6.4,
+      "nazwa": "zswihyc"
+    },
+    {
+      "cholesterol": 0.3,
+      "tluszcz": 1.9,
+      "zelazo": 5.8,
+      "weglowodany": 2.5,
+      "nazwa": "jrfnwmtoff"
+    },
+    {
+      "cholesterol": 6.8,
+      "tluszcz": 8.9,
+      "zelazo": 3.6,
+      "weglowodany": 4.2,
+      "nazwa": "eyqxxqa"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 6.9,
+      "zelazo": 5.9,
+      "weglowodany": 9.4,
+      "nazwa": "xrzlrn"
+    },
+    {
+      "cholesterol": 6.6,
+      "tluszcz": 3.8,
+      "zelazo": 4.6,
+      "weglowodany": 3.3,
+      "nazwa": "ssswjd"
+    },
+    {
+      "cholesterol": 7.3,
+      "tluszcz": 7.7,
+      "zelazo": 3.4,
+      "weglowodany": 6.6,
+      "nazwa": "rmlmc"
+    },
+    {
+      "cholesterol": 7.1,
+      "tluszcz": 5.4,
+      "zelazo": 4.7,
+      "weglowodany": 3.3,
+      "nazwa": "bcofocx"
+    },
+    {
+      "cholesterol": 2.3,
+      "tluszcz": 1.2,
+      "zelazo": 0.3,
+      "weglowodany": 9.4,
+      "nazwa": "gnvrxn"
+    },
+    {
+      "cholesterol": 9.3,
+      "tluszcz": 4.7,
+      "zelazo": 6.9,
+      "weglowodany": 1.1,
+      "nazwa": "esyvljk"
+    },
+    {
+      "cholesterol": 3.2,
+      "tluszcz": 5.8,
+      "zelazo": 4.8,
+      "weglowodany": 6.8,
+      "nazwa": "njbjojkvyk"
+    },
+    {
+      "cholesterol": 3.0,
+      "tluszcz": 0.9,
+      "zelazo": 0.3,
+      "weglowodany": 9.4,
+      "nazwa": "cwdfk"
+    },
+    {
+      "cholesterol": 3.9,
+      "tluszcz": 9.8,
+      "zelazo": 6.5,
+      "weglowodany": 2.8,
+      "nazwa": "jutecd"
+    },
+    {
+      "cholesterol": 8.2,
+      "tluszcz": 2.4,
+      "zelazo": 1.5,
+      "weglowodany": 8.0,
+      "nazwa": "vlldz"
+    },
+    {
+      "cholesterol": 1.9,
+      "tluszcz": 5.0,
+      "zelazo": 8.8,
+      "weglowodany": 8.7,
+      "nazwa": "objtfmkmlt"
+    },
+    {
+      "cholesterol": 2.2,
+      "tluszcz": 0.7,
+      "zelazo": 6.4,
+      "weglowodany": 2.4,
+      "nazwa": "srzusxg"
+    },
+    {
+      "cholesterol": 2.4,
+      "tluszcz": 4.5,
+      "zelazo": 5.0,
+      "weglowodany": 5.0,
+      "nazwa": "baqmpq"
+    },
+    {
+      "cholesterol": 5.6,
+      "tluszcz": 4.0,
+      "zelazo": 5.0,
+      "weglowodany": 4.3,
+      "nazwa": "rcqmajuom"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 1.5,
+      "zelazo": 6.9,
+      "weglowodany": 6.3,
+      "nazwa": "wniqmbluog"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 4.7,
+      "zelazo": 7.5,
+      "weglowodany": 5.7,
+      "nazwa": "eoozosdu"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 7.8,
+      "zelazo": 8.0,
+      "weglowodany": 8.3,
+      "nazwa": "mvaifkg"
+    },
+    {
+      "cholesterol": 8.2,
+      "tluszcz": 6.8,
+      "zelazo": 6.4,
+      "weglowodany": 3.7,
+      "nazwa": "alreqxbtnk"
+    },
+    {
+      "cholesterol": 4.6,
+      "tluszcz": 2.1,
+      "zelazo": 5.0,
+      "weglowodany": 5.9,
+      "nazwa": "wrgio"
+    },
+    {
+      "cholesterol": 1.1,
+      "tluszcz": 9.0,
+      "zelazo": 2.5,
+      "weglowodany": 2.8,
+      "nazwa": "kilasem"
+    },
+    {
+      "cholesterol": 4.6,
+      "tluszcz": 8.6,
+      "zelazo": 4.9,
+      "weglowodany": 5.5,
+      "nazwa": "usxpt"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 9.0,
+      "zelazo": 4.8,
+      "weglowodany": 3.8,
+      "nazwa": "xdfdowm"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 0.2,
+      "zelazo": 7.7,
+      "weglowodany": 7.6,
+      "nazwa": "uommtzbxr"
+    },
+    {
+      "cholesterol": 9.5,
+      "tluszcz": 2.8,
+      "zelazo": 0.7,
+      "weglowodany": 5.8,
+      "nazwa": "tosotb"
+    },
+    {
+      "cholesterol": 3.2,
+      "tluszcz": 6.5,
+      "zelazo": 9.8,
+      "weglowodany": 9.8,
+      "nazwa": "sporudn"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 6.0,
+      "zelazo": 3.4,
+      "weglowodany": 4.0,
+      "nazwa": "brwzmriam"
+    },
+    {
+      "cholesterol": 5.8,
+      "tluszcz": 3.5,
+      "zelazo": 8.1,
+      "weglowodany": 1.2,
+      "nazwa": "ytscgetd"
+    },
+    {
+      "cholesterol": 1.3,
+      "tluszcz": 1.0,
+      "zelazo": 2.8,
+      "weglowodany": 9.3,
+      "nazwa": "ueqjilhs"
+    },
+    {
+      "cholesterol": 5.4,
+      "tluszcz": 3.4,
+      "zelazo": 3.7,
+      "weglowodany": 6.4,
+      "nazwa": "zkmozcvwb"
+    },
+    {
+      "cholesterol": 8.8,
+      "tluszcz": 9.3,
+      "zelazo": 9.0,
+      "weglowodany": 5.1,
+      "nazwa": "nalil"
+    },
+    {
+      "cholesterol": 6.5,
+      "tluszcz": 5.2,
+      "zelazo": 4.7,
+      "weglowodany": 9.6,
+      "nazwa": "dnyhmruvne"
+    },
+    {
+      "cholesterol": 7.7,
+      "tluszcz": 4.3,
+      "zelazo": 7.0,
+      "weglowodany": 4.4,
+      "nazwa": "njmksahtep"
+    },
+    {
+      "cholesterol": 3.6,
+      "tluszcz": 7.2,
+      "zelazo": 0.5,
+      "weglowodany": 3.9,
+      "nazwa": "azcomzcp"
+    },
+    {
+      "cholesterol": 5.0,
+      "tluszcz": 7.5,
+      "zelazo": 3.1,
+      "weglowodany": 3.9,
+      "nazwa": "gnvgoq"
+    },
+    {
+      "cholesterol": 2.4,
+      "tluszcz": 1.5,
+      "zelazo": 3.0,
+      "weglowodany": 5.4,
+      "nazwa": "oilmhbap"
+    },
+    {
+      "cholesterol": 9.2,
+      "tluszcz": 7.1,
+      "zelazo": 4.1,
+      "weglowodany": 5.3,
+      "nazwa": "uooozkvp"
+    },
+    {
+      "cholesterol": 9.7,
+      "tluszcz": 5.4,
+      "zelazo": 8.6,
+      "weglowodany": 8.3,
+      "nazwa": "ukhpckzm"
+    },
+    {
+      "cholesterol": 6.6,
+      "tluszcz": 9.0,
+      "zelazo": 1.2,
+      "weglowodany": 9.1,
+      "nazwa": "lzctq"
+    },
+    {
+      "cholesterol": 5.2,
+      "tluszcz": 7.2,
+      "zelazo": 9.0,
+      "weglowodany": 9.9,
+      "nazwa": "qtmqw"
+    },
+    {
+      "cholesterol": 8.9,
+      "tluszcz": 8.6,
+      "zelazo": 4.1,
+      "weglowodany": 7.3,
+      "nazwa": "jeqdo"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 4.7,
+      "zelazo": 7.9,
+      "weglowodany": 4.5,
+      "nazwa": "svybywkgff"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 7.1,
+      "zelazo": 8.7,
+      "weglowodany": 9.4,
+      "nazwa": "vajgjajk"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 3.1,
+      "zelazo": 2.2,
+      "weglowodany": 9.9,
+      "nazwa": "wkelro"
+    },
+    {
+      "cholesterol": 3.0,
+      "tluszcz": 6.4,
+      "zelazo": 9.2,
+      "weglowodany": 0.2,
+      "nazwa": "ldqqzk"
+    },
+    {
+      "cholesterol": 1.9,
+      "tluszcz": 2.9,
+      "zelazo": 1.4,
+      "weglowodany": 9.6,
+      "nazwa": "idyddduru"
+    },
+    {
+      "cholesterol": 7.8,
+      "tluszcz": 1.7,
+      "zelazo": 7.7,
+      "weglowodany": 7.5,
+      "nazwa": "sgfpujv"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 2.0,
+      "zelazo": 0.4,
+      "weglowodany": 0.8,
+      "nazwa": "jtqtjxtuyo"
+    },
+    {
+      "cholesterol": 4.9,
+      "tluszcz": 0.9,
+      "zelazo": 9.5,
+      "weglowodany": 0.7,
+      "nazwa": "nposwxmdk"
+    },
+    {
+      "cholesterol": 2.7,
+      "tluszcz": 1.6,
+      "zelazo": 3.4,
+      "weglowodany": 1.5,
+      "nazwa": "ansisvxn"
+    },
+    {
+      "cholesterol": 3.3,
+      "tluszcz": 7.6,
+      "zelazo": 9.5,
+      "weglowodany": 4.3,
+      "nazwa": "hzzswp"
+    },
+    {
+      "cholesterol": 8.8,
+      "tluszcz": 7.3,
+      "zelazo": 8.7,
+      "weglowodany": 9.9,
+      "nazwa": "cxkepd"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 8.2,
+      "zelazo": 8.7,
+      "weglowodany": 3.9,
+      "nazwa": "vkvrxizcs"
+    },
+    {
+      "cholesterol": 10.0,
+      "tluszcz": 7.7,
+      "zelazo": 6.5,
+      "weglowodany": 9.8,
+      "nazwa": "jnexdd"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 7.8,
+      "zelazo": 8.0,
+      "weglowodany": 5.1,
+      "nazwa": "atqxlz"
+    },
+    {
+      "cholesterol": 9.5,
+      "tluszcz": 0.1,
+      "zelazo": 0.3,
+      "weglowodany": 5.5,
+      "nazwa": "kxdocdn"
+    },
+    {
+      "cholesterol": 8.8,
+      "tluszcz": 2.5,
+      "zelazo": 1.5,
+      "weglowodany": 4.7,
+      "nazwa": "ffqyzhzvh"
+    },
+    {
+      "cholesterol": 0.4,
+      "tluszcz": 4.5,
+      "zelazo": 3.4,
+      "weglowodany": 4.5,
+      "nazwa": "owvqrx"
+    },
+    {
+      "cholesterol": 8.6,
+      "tluszcz": 6.2,
+      "zelazo": 7.7,
+      "weglowodany": 6.1,
+      "nazwa": "dhndicx"
+    },
+    {
+      "cholesterol": 0.9,
+      "tluszcz": 8.4,
+      "zelazo": 8.2,
+      "weglowodany": 5.1,
+      "nazwa": "nkolbljo"
+    },
+    {
+      "cholesterol": 1.0,
+      "tluszcz": 3.3,
+      "zelazo": 6.3,
+      "weglowodany": 1.5,
+      "nazwa": "hnfoufxbix"
+    },
+    {
+      "cholesterol": 1.0,
+      "tluszcz": 3.0,
+      "zelazo": 6.7,
+      "weglowodany": 8.0,
+      "nazwa": "xkqlsco"
+    },
+    {
+      "cholesterol": 5.6,
+      "tluszcz": 1.8,
+      "zelazo": 4.8,
+      "weglowodany": 3.4,
+      "nazwa": "mtnnzh"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 3.5,
+      "zelazo": 4.5,
+      "weglowodany": 3.0,
+      "nazwa": "ifrwkkasn"
+    },
+    {
+      "cholesterol": 4.2,
+      "tluszcz": 8.6,
+      "zelazo": 7.7,
+      "weglowodany": 0.9,
+      "nazwa": "efpwvyl"
+    },
+    {
+      "cholesterol": 9.0,
+      "tluszcz": 1.7,
+      "zelazo": 4.2,
+      "weglowodany": 0.5,
+      "nazwa": "avretoe"
+    },
+    {
+      "cholesterol": 2.6,
+      "tluszcz": 1.2,
+      "zelazo": 3.2,
+      "weglowodany": 3.2,
+      "nazwa": "wfddifay"
+    },
+    {
+      "cholesterol": 4.8,
+      "tluszcz": 8.8,
+      "zelazo": 9.3,
+      "weglowodany": 7.6,
+      "nazwa": "cbmoksmdst"
+    },
+    {
+      "cholesterol": 0.8,
+      "tluszcz": 9.3,
+      "zelazo": 1.4,
+      "weglowodany": 6.8,
+      "nazwa": "hqhzuuzbc"
+    },
+    {
+      "cholesterol": 9.4,
+      "tluszcz": 4.9,
+      "zelazo": 6.0,
+      "weglowodany": 3.2,
+      "nazwa": "fooyrbd"
+    },
+    {
+      "cholesterol": 9.1,
+      "tluszcz": 5.2,
+      "zelazo": 8.6,
+      "weglowodany": 6.6,
+      "nazwa": "zbhxp"
+    },
+    {
+      "cholesterol": 7.6,
+      "tluszcz": 5.1,
+      "zelazo": 2.8,
+      "weglowodany": 7.4,
+      "nazwa": "nhcltetfr"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 0.8,
+      "zelazo": 2.4,
+      "weglowodany": 10.0,
+      "nazwa": "cjpzmf"
+    },
+    {
+      "cholesterol": 7.5,
+      "tluszcz": 9.7,
+      "zelazo": 2.3,
+      "weglowodany": 9.5,
+      "nazwa": "opwlzjjjb"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 3.5,
+      "zelazo": 7.7,
+      "weglowodany": 0.4,
+      "nazwa": "oxbvrtesl"
+    },
+    {
+      "cholesterol": 9.8,
+      "tluszcz": 8.6,
+      "zelazo": 2.9,
+      "weglowodany": 7.2,
+      "nazwa": "pmifyjao"
+    },
+    {
+      "cholesterol": 8.1,
+      "tluszcz": 7.5,
+      "zelazo": 8.3,
+      "weglowodany": 6.2,
+      "nazwa": "jqbbenf"
+    },
+    {
+      "cholesterol": 0.7,
+      "tluszcz": 9.6,
+      "zelazo": 1.1,
+      "weglowodany": 0.5,
+      "nazwa": "eglnzljcal"
+    },
+    {
+      "cholesterol": 6.2,
+      "tluszcz": 3.4,
+      "zelazo": 7.9,
+      "weglowodany": 9.4,
+      "nazwa": "mkuvs"
+    },
+    {
+      "cholesterol": 4.2,
+      "tluszcz": 4.4,
+      "zelazo": 5.6,
+      "weglowodany": 6.6,
+      "nazwa": "tqtnr"
+    },
+    {
+      "cholesterol": 5.4,
+      "tluszcz": 7.3,
+      "zelazo": 7.1,
+      "weglowodany": 9.2,
+      "nazwa": "lahxledghh"
+    },
+    {
+      "cholesterol": 1.6,
+      "tluszcz": 9.7,
+      "zelazo": 9.4,
+      "weglowodany": 6.9,
+      "nazwa": "bbnysbx"
+    },
+    {
+      "cholesterol": 0.6,
+      "tluszcz": 9.5,
+      "zelazo": 9.9,
+      "weglowodany": 9.9,
+      "nazwa": "kihbjyub"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 2.3,
+      "zelazo": 7.9,
+      "weglowodany": 6.4,
+      "nazwa": "ghhjy"
+    },
+    {
+      "cholesterol": 0.9,
+      "tluszcz": 0.6,
+      "zelazo": 1.7,
+      "weglowodany": 1.3,
+      "nazwa": "tarymhf"
+    },
+    {
+      "cholesterol": 5.0,
+      "tluszcz": 1.2,
+      "zelazo": 0.6,
+      "weglowodany": 7.5,
+      "nazwa": "witsxfew"
+    },
+    {
+      "cholesterol": 9.3,
+      "tluszcz": 4.5,
+      "zelazo": 9.7,
+      "weglowodany": 6.8,
+      "nazwa": "eumlqk"
+    },
+    {
+      "cholesterol": 4.5,
+      "tluszcz": 2.6,
+      "zelazo": 9.8,
+      "weglowodany": 0.8,
+      "nazwa": "gdbcygvuxm"
+    },
+    {
+      "cholesterol": 5.8,
+      "tluszcz": 3.1,
+      "zelazo": 3.1,
+      "weglowodany": 8.5,
+      "nazwa": "rqlcrhz"
+    },
+    {
+      "cholesterol": 7.5,
+      "tluszcz": 0.6,
+      "zelazo": 9.2,
+      "weglowodany": 6.1,
+      "nazwa": "zyjst"
+    },
+    {
+      "cholesterol": 3.5,
+      "tluszcz": 2.7,
+      "zelazo": 4.3,
+      "weglowodany": 5.3,
+      "nazwa": "onchu"
+    },
+    {
+      "cholesterol": 0.4,
+      "tluszcz": 6.6,
+      "zelazo": 8.2,
+      "weglowodany": 5.1,
+      "nazwa": "rblwexmz"
+    },
+    {
+      "cholesterol": 6.1,
+      "tluszcz": 8.2,
+      "zelazo": 2.5,
+      "weglowodany": 9.6,
+      "nazwa": "reklmgutzq"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 3.4,
+      "zelazo": 6.1,
+      "weglowodany": 1.7,
+      "nazwa": "rmfiy"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 7.5,
+      "zelazo": 3.6,
+      "weglowodany": 0.1,
+      "nazwa": "emnsh"
+    },
+    {
+      "cholesterol": 9.4,
+      "tluszcz": 8.5,
+      "zelazo": 8.3,
+      "weglowodany": 5.4,
+      "nazwa": "wmeawulmgb"
+    },
+    {
+      "cholesterol": 2.8,
+      "tluszcz": 2.9,
+      "zelazo": 6.4,
+      "weglowodany": 2.8,
+      "nazwa": "ltzzpp"
+    },
+    {
+      "cholesterol": 3.5,
+      "tluszcz": 7.5,
+      "zelazo": 7.6,
+      "weglowodany": 8.4,
+      "nazwa": "hkirviq"
+    },
+    {
+      "cholesterol": 5.8,
+      "tluszcz": 9.3,
+      "zelazo": 5.8,
+      "weglowodany": 6.3,
+      "nazwa": "ykyqnoiq"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 8.0,
+      "zelazo": 9.5,
+      "weglowodany": 8.4,
+      "nazwa": "zbimbfqle"
+    },
+    {
+      "cholesterol": 2.3,
+      "tluszcz": 0.6,
+      "zelazo": 3.2,
+      "weglowodany": 7.1,
+      "nazwa": "uwnlzxb"
+    },
+    {
+      "cholesterol": 9.2,
+      "tluszcz": 9.4,
+      "zelazo": 5.5,
+      "weglowodany": 0.3,
+      "nazwa": "loglvmcjqv"
+    },
+    {
+      "cholesterol": 7.6,
+      "tluszcz": 2.2,
+      "zelazo": 0.3,
+      "weglowodany": 3.7,
+      "nazwa": "wnbxnvph"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 9.1,
+      "zelazo": 1.2,
+      "weglowodany": 7.9,
+      "nazwa": "nruko"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 4.0,
+      "zelazo": 1.7,
+      "weglowodany": 6.9,
+      "nazwa": "tyrdt"
+    },
+    {
+      "cholesterol": 8.2,
+      "tluszcz": 4.3,
+      "zelazo": 7.1,
+      "weglowodany": 5.2,
+      "nazwa": "wknhxfubx"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 7.9,
+      "zelazo": 2.9,
+      "weglowodany": 5.2,
+      "nazwa": "zgmorij"
+    },
+    {
+      "cholesterol": 0.7,
+      "tluszcz": 0.6,
+      "zelazo": 3.7,
+      "weglowodany": 9.2,
+      "nazwa": "oemgtiuto"
+    },
+    {
+      "cholesterol": 4.9,
+      "tluszcz": 8.2,
+      "zelazo": 9.1,
+      "weglowodany": 9.6,
+      "nazwa": "ngvlnlhf"
+    },
+    {
+      "cholesterol": 3.5,
+      "tluszcz": 2.2,
+      "zelazo": 6.2,
+      "weglowodany": 2.7,
+      "nazwa": "ianvxeptyk"
+    },
+    {
+      "cholesterol": 3.9,
+      "tluszcz": 8.9,
+      "zelazo": 8.6,
+      "weglowodany": 6.3,
+      "nazwa": "eihtiobbt"
+    },
+    {
+      "cholesterol": 4.7,
+      "tluszcz": 5.5,
+      "zelazo": 9.8,
+      "weglowodany": 0.7,
+      "nazwa": "fksulyzr"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 5.8,
+      "zelazo": 9.7,
+      "weglowodany": 7.9,
+      "nazwa": "zqlahr"
+    },
+    {
+      "cholesterol": 0.8,
+      "tluszcz": 0.4,
+      "zelazo": 0.3,
+      "weglowodany": 2.6,
+      "nazwa": "txwbipfccl"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 9.9,
+      "zelazo": 3.7,
+      "weglowodany": 9.0,
+      "nazwa": "farzftm"
+    },
+    {
+      "cholesterol": 7.0,
+      "tluszcz": 6.8,
+      "zelazo": 3.5,
+      "weglowodany": 4.0,
+      "nazwa": "vwdtz"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 1.2,
+      "zelazo": 0.5,
+      "weglowodany": 0.8,
+      "nazwa": "zfrdovu"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 7.0,
+      "zelazo": 4.0,
+      "weglowodany": 3.8,
+      "nazwa": "oiuuwzj"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 10.0,
+      "zelazo": 1.1,
+      "weglowodany": 8.5,
+      "nazwa": "mkobquzffq"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 4.5,
+      "zelazo": 0.4,
+      "weglowodany": 6.6,
+      "nazwa": "lyncjhi"
+    },
+    {
+      "cholesterol": 0.1,
+      "tluszcz": 7.6,
+      "zelazo": 7.8,
+      "weglowodany": 8.0,
+      "nazwa": "jvwsooemdm"
+    },
+    {
+      "cholesterol": 1.1,
+      "tluszcz": 2.3,
+      "zelazo": 8.4,
+      "weglowodany": 4.0,
+      "nazwa": "khisu"
+    },
+    {
+      "cholesterol": 9.7,
+      "tluszcz": 6.7,
+      "zelazo": 8.8,
+      "weglowodany": 2.3,
+      "nazwa": "clytpjc"
+    },
+    {
+      "cholesterol": 8.8,
+      "tluszcz": 9.7,
+      "zelazo": 9.4,
+      "weglowodany": 8.6,
+      "nazwa": "ybijfu"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 0.9,
+      "zelazo": 3.8,
+      "weglowodany": 2.2,
+      "nazwa": "jhliiedhvr"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 3.5,
+      "zelazo": 8.3,
+      "weglowodany": 1.5,
+      "nazwa": "zucxycu"
+    },
+    {
+      "cholesterol": 10.0,
+      "tluszcz": 9.0,
+      "zelazo": 2.8,
+      "weglowodany": 5.5,
+      "nazwa": "ufyko"
+    },
+    {
+      "cholesterol": 1.1,
+      "tluszcz": 0.7,
+      "zelazo": 2.9,
+      "weglowodany": 4.6,
+      "nazwa": "djnpmh"
+    },
+    {
+      "cholesterol": 4.3,
+      "tluszcz": 4.3,
+      "zelazo": 8.5,
+      "weglowodany": 8.6,
+      "nazwa": "kpsvh"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 5.8,
+      "zelazo": 1.0,
+      "weglowodany": 2.6,
+      "nazwa": "apslpnejhh"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 3.9,
+      "zelazo": 8.9,
+      "weglowodany": 5.0,
+      "nazwa": "vvgeihyv"
+    },
+    {
+      "cholesterol": 9.1,
+      "tluszcz": 9.7,
+      "zelazo": 0.6,
+      "weglowodany": 9.8,
+      "nazwa": "qlijecv"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 8.0,
+      "zelazo": 8.8,
+      "weglowodany": 6.1,
+      "nazwa": "cvkulscolq"
+    },
+    {
+      "cholesterol": 2.6,
+      "tluszcz": 6.7,
+      "zelazo": 8.7,
+      "weglowodany": 5.0,
+      "nazwa": "xhuxbvv"
+    },
+    {
+      "cholesterol": 1.3,
+      "tluszcz": 7.5,
+      "zelazo": 6.8,
+      "weglowodany": 4.9,
+      "nazwa": "gyvsrox"
+    },
+    {
+      "cholesterol": 1.3,
+      "tluszcz": 8.7,
+      "zelazo": 1.5,
+      "weglowodany": 2.1,
+      "nazwa": "upqsspexoc"
+    },
+    {
+      "cholesterol": 8.8,
+      "tluszcz": 1.6,
+      "zelazo": 7.6,
+      "weglowodany": 3.2,
+      "nazwa": "zbrnxwd"
+    },
+    {
+      "cholesterol": 5.4,
+      "tluszcz": 2.4,
+      "zelazo": 8.4,
+      "weglowodany": 0.8,
+      "nazwa": "icltvbpdw"
+    },
+    {
+      "cholesterol": 1.6,
+      "tluszcz": 3.0,
+      "zelazo": 0.6,
+      "weglowodany": 9.5,
+      "nazwa": "ajnnruu"
+    },
+    {
+      "cholesterol": 0.4,
+      "tluszcz": 5.1,
+      "zelazo": 1.7,
+      "weglowodany": 7.8,
+      "nazwa": "eqcazui"
+    },
+    {
+      "cholesterol": 0.3,
+      "tluszcz": 7.1,
+      "zelazo": 3.5,
+      "weglowodany": 6.0,
+      "nazwa": "tpuqfp"
+    },
+    {
+      "cholesterol": 1.4,
+      "tluszcz": 8.6,
+      "zelazo": 9.6,
+      "weglowodany": 3.9,
+      "nazwa": "lwqqnsny"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 6.6,
+      "zelazo": 6.3,
+      "weglowodany": 3.0,
+      "nazwa": "boeztiwnmp"
+    },
+    {
+      "cholesterol": 2.2,
+      "tluszcz": 6.0,
+      "zelazo": 4.4,
+      "weglowodany": 0.4,
+      "nazwa": "fevcotv"
+    },
+    {
+      "cholesterol": 1.9,
+      "tluszcz": 0.8,
+      "zelazo": 6.0,
+      "weglowodany": 6.7,
+      "nazwa": "cbvynneu"
+    },
+    {
+      "cholesterol": 5.3,
+      "tluszcz": 2.0,
+      "zelazo": 1.3,
+      "weglowodany": 8.2,
+      "nazwa": "knuqlo"
+    },
+    {
+      "cholesterol": 2.6,
+      "tluszcz": 3.8,
+      "zelazo": 1.2,
+      "weglowodany": 6.0,
+      "nazwa": "kelfnmxr"
+    },
+    {
+      "cholesterol": 7.1,
+      "tluszcz": 5.6,
+      "zelazo": 4.6,
+      "weglowodany": 5.4,
+      "nazwa": "wkvtl"
+    },
+    {
+      "cholesterol": 1.1,
+      "tluszcz": 1.0,
+      "zelazo": 4.7,
+      "weglowodany": 0.8,
+      "nazwa": "vjerjgqwy"
+    },
+    {
+      "cholesterol": 4.7,
+      "tluszcz": 2.6,
+      "zelazo": 7.4,
+      "weglowodany": 2.6,
+      "nazwa": "djlhemlc"
+    },
+    {
+      "cholesterol": 4.3,
+      "tluszcz": 5.1,
+      "zelazo": 0.5,
+      "weglowodany": 4.7,
+      "nazwa": "krgnzim"
+    },
+    {
+      "cholesterol": 1.2,
+      "tluszcz": 4.5,
+      "zelazo": 7.4,
+      "weglowodany": 3.5,
+      "nazwa": "xmdtykmu"
+    },
+    {
+      "cholesterol": 8.7,
+      "tluszcz": 2.1,
+      "zelazo": 5.6,
+      "weglowodany": 2.0,
+      "nazwa": "oittbap"
+    },
+    {
+      "cholesterol": 1.2,
+      "tluszcz": 8.3,
+      "zelazo": 6.0,
+      "weglowodany": 1.1,
+      "nazwa": "hgdmkvy"
+    },
+    {
+      "cholesterol": 0.7,
+      "tluszcz": 3.1,
+      "zelazo": 5.2,
+      "weglowodany": 9.1,
+      "nazwa": "zuzsxlol"
+    },
+    {
+      "cholesterol": 6.6,
+      "tluszcz": 8.6,
+      "zelazo": 0.9,
+      "weglowodany": 5.9,
+      "nazwa": "lkplnji"
+    },
+    {
+      "cholesterol": 4.6,
+      "tluszcz": 7.2,
+      "zelazo": 8.7,
+      "weglowodany": 9.3,
+      "nazwa": "sccpg"
+    },
+    {
+      "cholesterol": 8.3,
+      "tluszcz": 3.3,
+      "zelazo": 0.4,
+      "weglowodany": 6.2,
+      "nazwa": "urnzulwk"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 4.1,
+      "zelazo": 4.5,
+      "weglowodany": 3.4,
+      "nazwa": "hprlqvl"
+    },
+    {
+      "cholesterol": 9.8,
+      "tluszcz": 1.0,
+      "zelazo": 7.2,
+      "weglowodany": 3.8,
+      "nazwa": "wecbfzvx"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 7.3,
+      "zelazo": 7.6,
+      "weglowodany": 8.7,
+      "nazwa": "bapopj"
+    },
+    {
+      "cholesterol": 6.4,
+      "tluszcz": 0.1,
+      "zelazo": 6.3,
+      "weglowodany": 1.7,
+      "nazwa": "lkgovvk"
+    },
+    {
+      "cholesterol": 9.1,
+      "tluszcz": 1.4,
+      "zelazo": 6.3,
+      "weglowodany": 8.6,
+      "nazwa": "ddxoux"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 1.6,
+      "zelazo": 4.2,
+      "weglowodany": 4.2,
+      "nazwa": "npqfkn"
+    },
+    {
+      "cholesterol": 8.6,
+      "tluszcz": 0.2,
+      "zelazo": 2.4,
+      "weglowodany": 7.5,
+      "nazwa": "znzgofpvk"
+    },
+    {
+      "cholesterol": 6.1,
+      "tluszcz": 1.7,
+      "zelazo": 6.9,
+      "weglowodany": 3.2,
+      "nazwa": "hijimf"
+    },
+    {
+      "cholesterol": 9.6,
+      "tluszcz": 5.3,
+      "zelazo": 7.8,
+      "weglowodany": 0.9,
+      "nazwa": "nyxya"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 4.9,
+      "zelazo": 0.7,
+      "weglowodany": 9.4,
+      "nazwa": "oymanu"
+    },
+    {
+      "cholesterol": 4.5,
+      "tluszcz": 2.6,
+      "zelazo": 8.2,
+      "weglowodany": 2.2,
+      "nazwa": "xtwrbxl"
+    },
+    {
+      "cholesterol": 7.2,
+      "tluszcz": 9.2,
+      "zelazo": 0.5,
+      "weglowodany": 6.5,
+      "nazwa": "rffxvcmkg"
+    },
+    {
+      "cholesterol": 4.2,
+      "tluszcz": 3.1,
+      "zelazo": 5.7,
+      "weglowodany": 0.7,
+      "nazwa": "ahurw"
+    },
+    {
+      "cholesterol": 3.2,
+      "tluszcz": 4.7,
+      "zelazo": 6.3,
+      "weglowodany": 3.3,
+      "nazwa": "eaqlitev"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 7.8,
+      "zelazo": 4.0,
+      "weglowodany": 2.6,
+      "nazwa": "roapyjnngy"
+    },
+    {
+      "cholesterol": 5.3,
+      "tluszcz": 4.0,
+      "zelazo": 7.4,
+      "weglowodany": 7.7,
+      "nazwa": "zwgwlwfovt"
+    },
+    {
+      "cholesterol": 6.3,
+      "tluszcz": 1.6,
+      "zelazo": 2.1,
+      "weglowodany": 4.3,
+      "nazwa": "rncso"
+    },
+    {
+      "cholesterol": 3.0,
+      "tluszcz": 6.1,
+      "zelazo": 7.3,
+      "weglowodany": 6.9,
+      "nazwa": "icexyjuwmd"
+    },
+    {
+      "cholesterol": 10.0,
+      "tluszcz": 3.9,
+      "zelazo": 3.1,
+      "weglowodany": 7.4,
+      "nazwa": "txzlhr"
+    },
+    {
+      "cholesterol": 1.4,
+      "tluszcz": 4.5,
+      "zelazo": 5.9,
+      "weglowodany": 1.3,
+      "nazwa": "arclhdq"
+    },
+    {
+      "cholesterol": 2.3,
+      "tluszcz": 0.7,
+      "zelazo": 3.5,
+      "weglowodany": 7.5,
+      "nazwa": "yiztok"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 8.8,
+      "zelazo": 0.3,
+      "weglowodany": 0.9,
+      "nazwa": "vzhzteertc"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 9.0,
+      "zelazo": 8.8,
+      "weglowodany": 2.7,
+      "nazwa": "ymkorpwv"
+    },
+    {
+      "cholesterol": 0.3,
+      "tluszcz": 9.0,
+      "zelazo": 0.8,
+      "weglowodany": 4.3,
+      "nazwa": "ieeasiek"
+    },
+    {
+      "cholesterol": 8.3,
+      "tluszcz": 3.9,
+      "zelazo": 5.0,
+      "weglowodany": 5.6,
+      "nazwa": "dpgmy"
+    },
+    {
+      "cholesterol": 4.1,
+      "tluszcz": 8.9,
+      "zelazo": 0.1,
+      "weglowodany": 1.3,
+      "nazwa": "rqnjkev"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 7.1,
+      "zelazo": 6.4,
+      "weglowodany": 8.0,
+      "nazwa": "umbphkalza"
+    },
+    {
+      "cholesterol": 9.0,
+      "tluszcz": 6.0,
+      "zelazo": 4.5,
+      "weglowodany": 2.8,
+      "nazwa": "qtsqfa"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 1.0,
+      "zelazo": 1.5,
+      "weglowodany": 3.2,
+      "nazwa": "adnjagsla"
+    },
+    {
+      "cholesterol": 9.9,
+      "tluszcz": 3.3,
+      "zelazo": 3.5,
+      "weglowodany": 3.8,
+      "nazwa": "fyxln"
+    },
+    {
+      "cholesterol": 2.2,
+      "tluszcz": 8.2,
+      "zelazo": 9.5,
+      "weglowodany": 7.1,
+      "nazwa": "gjytiffd"
+    },
+    {
+      "cholesterol": 4.7,
+      "tluszcz": 1.8,
+      "zelazo": 1.1,
+      "weglowodany": 6.6,
+      "nazwa": "qncowvdlcm"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 3.1,
+      "zelazo": 9.1,
+      "weglowodany": 8.7,
+      "nazwa": "cxhrn"
+    },
+    {
+      "cholesterol": 1.9,
+      "tluszcz": 3.0,
+      "zelazo": 0.8,
+      "weglowodany": 7.1,
+      "nazwa": "kyymdc"
+    },
+    {
+      "cholesterol": 1.1,
+      "tluszcz": 6.1,
+      "zelazo": 8.9,
+      "weglowodany": 6.8,
+      "nazwa": "jtumvyxb"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 9.4,
+      "zelazo": 8.9,
+      "weglowodany": 2.4,
+      "nazwa": "azvpm"
+    },
+    {
+      "cholesterol": 0.1,
+      "tluszcz": 4.7,
+      "zelazo": 3.0,
+      "weglowodany": 4.3,
+      "nazwa": "ievwhqliwy"
+    },
+    {
+      "cholesterol": 7.8,
+      "tluszcz": 4.0,
+      "zelazo": 4.3,
+      "weglowodany": 5.1,
+      "nazwa": "fpganzgytz"
+    },
+    {
+      "cholesterol": 1.9,
+      "tluszcz": 7.1,
+      "zelazo": 5.1,
+      "weglowodany": 1.6,
+      "nazwa": "tozhthiox"
+    },
+    {
+      "cholesterol": 3.4,
+      "tluszcz": 8.0,
+      "zelazo": 5.9,
+      "weglowodany": 5.5,
+      "nazwa": "bgkzypya"
+    },
+    {
+      "cholesterol": 4.4,
+      "tluszcz": 4.4,
+      "zelazo": 5.1,
+      "weglowodany": 4.5,
+      "nazwa": "tikcvkkx"
+    },
+    {
+      "cholesterol": 6.0,
+      "tluszcz": 0.1,
+      "zelazo": 3.0,
+      "weglowodany": 5.7,
+      "nazwa": "rjltom"
+    },
+    {
+      "cholesterol": 6.3,
+      "tluszcz": 9.4,
+      "zelazo": 2.3,
+      "weglowodany": 6.3,
+      "nazwa": "mafnzlfkg"
+    },
+    {
+      "cholesterol": 5.0,
+      "tluszcz": 2.1,
+      "zelazo": 0.6,
+      "weglowodany": 0.3,
+      "nazwa": "gwmicb"
+    },
+    {
+      "cholesterol": 0.5,
+      "tluszcz": 8.6,
+      "zelazo": 2.6,
+      "weglowodany": 2.3,
+      "nazwa": "qfayfll"
+    },
+    {
+      "cholesterol": 2.3,
+      "tluszcz": 6.9,
+      "zelazo": 9.8,
+      "weglowodany": 7.0,
+      "nazwa": "yrbbficx"
+    },
+    {
+      "cholesterol": 2.4,
+      "tluszcz": 3.2,
+      "zelazo": 2.3,
+      "weglowodany": 4.4,
+      "nazwa": "oipmpta"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 5.8,
+      "zelazo": 9.2,
+      "weglowodany": 7.1,
+      "nazwa": "bbxgxvieks"
+    },
+    {
+      "cholesterol": 9.0,
+      "tluszcz": 9.8,
+      "zelazo": 7.2,
+      "weglowodany": 5.4,
+      "nazwa": "mclmdcu"
+    },
+    {
+      "cholesterol": 1.5,
+      "tluszcz": 0.7,
+      "zelazo": 0.6,
+      "weglowodany": 9.1,
+      "nazwa": "lekclvzysr"
+    },
+    {
+      "cholesterol": 9.3,
+      "tluszcz": 1.8,
+      "zelazo": 6.4,
+      "weglowodany": 3.8,
+      "nazwa": "txcwep"
+    },
+    {
+      "cholesterol": 0.8,
+      "tluszcz": 9.6,
+      "zelazo": 2.9,
+      "weglowodany": 6.5,
+      "nazwa": "gzghevj"
+    },
+    {
+      "cholesterol": 5.7,
+      "tluszcz": 3.3,
+      "zelazo": 7.8,
+      "weglowodany": 7.2,
+      "nazwa": "fjfklhv"
+    },
+    {
+      "cholesterol": 5.0,
+      "tluszcz": 1.8,
+      "zelazo": 5.4,
+      "weglowodany": 1.4,
+      "nazwa": "hamhgps"
+    },
+    {
+      "cholesterol": 0.6,
+      "tluszcz": 4.9,
+      "zelazo": 1.9,
+      "weglowodany": 7.1,
+      "nazwa": "ugvdswhz"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 0.5,
+      "zelazo": 4.5,
+      "weglowodany": 8.3,
+      "nazwa": "ioalphctro"
+    },
+    {
+      "cholesterol": 1.2,
+      "tluszcz": 0.7,
+      "zelazo": 3.7,
+      "weglowodany": 1.8,
+      "nazwa": "cyfbzokx"
+    },
+    {
+      "cholesterol": 3.1,
+      "tluszcz": 9.7,
+      "zelazo": 4.4,
+      "weglowodany": 4.2,
+      "nazwa": "kijnyidrq"
+    },
+    {
+      "cholesterol": 1.7,
+      "tluszcz": 5.9,
+      "zelazo": 4.0,
+      "weglowodany": 3.1,
+      "nazwa": "wwrcphjjj"
+    },
+    {
+      "cholesterol": 5.7,
+      "tluszcz": 2.6,
+      "zelazo": 7.2,
+      "weglowodany": 1.0,
+      "nazwa": "yuxhrkl"
+    },
+    {
+      "cholesterol": 6.7,
+      "tluszcz": 7.2,
+      "zelazo": 8.4,
+      "weglowodany": 3.9,
+      "nazwa": "wptpktlc"
+    },
+    {
+      "cholesterol": 8.7,
+      "tluszcz": 2.5,
+      "zelazo": 3.1,
+      "weglowodany": 5.8,
+      "nazwa": "nlnbzhng"
+    },
+    {
+      "cholesterol": 2.4,
+      "tluszcz": 0.9,
+      "zelazo": 9.9,
+      "weglowodany": 8.1,
+      "nazwa": "duguqzxuvl"
+    },
+    {
+      "cholesterol": 6.3,
+      "tluszcz": 6.9,
+      "zelazo": 4.4,
+      "weglowodany": 5.7,
+      "nazwa": "nekkizaxu"
+    },
+    {
+      "cholesterol": 2.1,
+      "tluszcz": 1.1,
+      "zelazo": 7.7,
+      "weglowodany": 8.9,
+      "nazwa": "wqqxk"
+    },
+    {
+      "cholesterol": 9.2,
+      "tluszcz": 9.2,
+      "zelazo": 0.5,
+      "weglowodany": 4.0,
+      "nazwa": "awkqffgv"
+    },
+    {
+      "cholesterol": 0.7,
+      "tluszcz": 7.4,
+      "zelazo": 8.6,
+      "weglowodany": 3.6,
+      "nazwa": "rrqvojpqvi"
+    },
+    {
+      "cholesterol": 5.3,
+      "tluszcz": 9.6,
+      "zelazo": 1.1,
+      "weglowodany": 5.1,
+      "nazwa": "eybvpopaw"
+    },
+    {
+      "cholesterol": 0.5,
+      "tluszcz": 6.9,
+      "zelazo": 8.9,
+      "weglowodany": 9.3,
+      "nazwa": "vgqytztlqd"
+    },
+    {
+      "cholesterol": 7.5,
+      "tluszcz": 8.5,
+      "zelazo": 6.2,
+      "weglowodany": 7.2,
+      "nazwa": "ckaowufev"
+    },
+    {
+      "cholesterol": 8.7,
+      "tluszcz": 3.7,
+      "zelazo": 7.4,
+      "weglowodany": 2.8,
+      "nazwa": "bujjdokek"
+    },
+    {
+      "cholesterol": 2.0,
+      "tluszcz": 7.3,
+      "zelazo": 5.8,
+      "weglowodany": 5.3,
+      "nazwa": "dlwtds"
+    },
+    {
+      "cholesterol": 2.8,
+      "tluszcz": 5.8,
+      "zelazo": 6.2,
+      "weglowodany": 0.3,
+      "nazwa": "mibvhptcfx"
+    },
+    {
+      "cholesterol": 0.2,
+      "tluszcz": 1.4,
+      "zelazo": 0.7,
+      "weglowodany": 9.9,
+      "nazwa": "tzxlb"
+    },
+    {
+      "cholesterol": 4.0,
+      "tluszcz": 6.9,
+      "zelazo": 6.5,
+      "weglowodany": 2.8,
+      "nazwa": "lcyaz"
+    },
+    {
+      "cholesterol": 0.9,
+      "tluszcz": 8.3,
+      "zelazo": 6.6,
+      "weglowodany": 6.6,
+      "nazwa": "wcmep"
+    },
+    {
+      "cholesterol": 5.1,
+      "tluszcz": 6.4,
+      "zelazo": 1.5,
+      "weglowodany": 7.5,
+      "nazwa": "emzilcbpd"
+    },
+    {
+      "cholesterol": 5.6,
+      "tluszcz": 9.3,
+      "zelazo": 4.5,
+      "weglowodany": 9.2,
+      "nazwa": "uxlzycim"
+    },
+    {
+      "cholesterol": 9.4,
+      "tluszcz": 8.3,
+      "zelazo": 2.8,
+      "weglowodany": 7.4,
+      "nazwa": "pohjjrjwd"
+    },
+    {
+      "cholesterol": 5.5,
+      "tluszcz": 1.9,
+      "zelazo": 2.9,
+      "weglowodany": 8.5,
+      "nazwa": "yhinu"
+    },
+    {
+      "cholesterol": 3.9,
+      "tluszcz": 9.8,
+      "zelazo": 4.6,
+      "weglowodany": 7.5,
+      "nazwa": "ligbfxu"
+    },
+    {
+      "cholesterol": 1.6,
+      "tluszcz": 9.9,
+      "zelazo": 6.8,
+      "weglowodany": 8.2,
+      "nazwa": "rogpjcgjup"
+    },
+    {
+      "cholesterol": 8.3,
+      "tluszcz": 9.1,
+      "zelazo": 6.1,
+      "weglowodany": 4.9,
+      "nazwa": "ftjsksf"
+    },
+    {
+      "cholesterol": 9.7,
+      "tluszcz": 0.3,
+      "zelazo": 5.7,
+      "weglowodany": 1.0,
+      "nazwa": "kxbgtzkwof"
+    },
+    {
+      "cholesterol": 4.4,
+      "tluszcz": 4.8,
+      "zelazo": 3.0,
+      "weglowodany": 8.6,
+      "nazwa": "szhmpbwd"
+    },
+    {
+      "cholesterol": 5.7,
+      "tluszcz": 0.7,
+      "zelazo": 9.5,
+      "weglowodany": 8.5,
+      "nazwa": "vvjdzi"
+    },
+    {
+      "cholesterol": 2.6,
+      "tluszcz": 1.1,
+      "zelazo": 6.5,
+      "weglowodany": 0.3,
+      "nazwa": "owzqoeklc"
+    },
+    {
+      "cholesterol": 6.1,
+      "tluszcz": 9.0,
+      "zelazo": 4.4,
+      "weglowodany": 4.7,
+      "nazwa": "lmjfqvis"
+    },
+    {
+      "cholesterol": 0.5,
+      "tluszcz": 4.6,
+      "zelazo": 7.8,
+      "weglowodany": 2.8,
+      "nazwa": "ipycopml"
+    },
+    {
+      "cholesterol": 8.6,
+      "tluszcz": 2.8,
+      "zelazo": 8.4,
+      "weglowodany": 2.8,
+      "nazwa": "xhecj"
+    },
+    {
+      "cholesterol": 5.0,
+      "tluszcz": 8.1,
+      "zelazo": 3.4,
+      "weglowodany": 4.6,
+      "nazwa": "jofkwjztut"
+    },
+    {
+      "cholesterol": 4.3,
+      "tluszcz": 3.2,
+      "zelazo": 7.3,
+      "weglowodany": 7.7,
+      "nazwa": "kxxbtkp"
+    },
+    {
+      "cholesterol": 2.7,
+      "tluszcz": 5.0,
+      "zelazo": 7.5,
+      "weglowodany": 0.8,
+      "nazwa": "qlfybktwq"
+    },
+    {
+      "cholesterol": 8.4,
+      "tluszcz": 7.1,
+      "zelazo": 4.2,
+      "weglowodany": 9.9,
+      "nazwa": "rjpredy"
+    }
+  ],
+  "konflikty": [
+    {
+      "nazwa1": "djnpmh",
+      "nazwa2": "nhcltetfr"
+    },
+    {
+      "nazwa1": "ysvzgwnvyl",
+      "nazwa2": "bgkzypya"
+    },
+    {
+      "nazwa1": "vwdtz",
+      "nazwa2": "rmfiy"
+    },
+    {
+      "nazwa1": "knuqlo",
+      "nazwa2": "fjobnncvt"
+    },
+    {
+      "nazwa1": "ufyko",
+      "nazwa2": "zucxycu"
+    },
+    {
+      "nazwa1": "bbxgxvieks",
+      "nazwa2": "wecbfzvx"
+    },
+    {
+      "nazwa1": "oipmpta",
+      "nazwa2": "ilorcpife"
+    },
+    {
+      "nazwa1": "oymanu",
+      "nazwa2": "emnsh"
+    },
+    {
+      "nazwa1": "xdktitb",
+      "nazwa2": "rogpjcgjup"
+    },
+    {
+      "nazwa1": "dulmgcmac",
+      "nazwa2": "mibvhptcfx"
+    },
+    {
+      "nazwa1": "cwdfk",
+      "nazwa2": "nekkizaxu"
+    },
+    {
+      "nazwa1": "ldqqzk",
+      "nazwa2": "adnjagsla"
+    },
+    {
+      "nazwa1": "qgpfig",
+      "nazwa2": "vgqytztlqd"
+    },
+    {
+      "nazwa1": "duguqzxuvl",
+      "nazwa2": "zfrdovu"
+    },
+    {
+      "nazwa1": "khisu",
+      "nazwa2": "dkgulxg"
+    },
+    {
+      "nazwa1": "umbphkalza",
+      "nazwa2": "ufyko"
+    },
+    {
+      "nazwa1": "zgmorij",
+      "nazwa2": "bbxgxvieks"
+    },
+    {
+      "nazwa1": "ltzzpp",
+      "nazwa2": "farzftm"
+    },
+    {
+      "nazwa1": "rqlcrhz",
+      "nazwa2": "pgyxbr"
+    },
+    {
+      "nazwa1": "ldqqzk",
+      "nazwa2": "kihbjyub"
+    },
+    {
+      "nazwa1": "gnvgoq",
+      "nazwa2": "ueqjilhs"
+    },
+    {
+      "nazwa1": "jtumvyxb",
+      "nazwa2": "wwrcphjjj"
+    },
+    {
+      "nazwa1": "uooozkvp",
+      "nazwa2": "zgmorij"
+    },
+    {
+      "nazwa1": "qxavjyf",
+      "nazwa2": "eumlqk"
+    },
+    {
+      "nazwa1": "tozhthiox",
+      "nazwa2": "farzftm"
+    },
+    {
+      "nazwa1": "uprdu",
+      "nazwa2": "qxavjyf"
+    },
+    {
+      "nazwa1": "oemgtiuto",
+      "nazwa2": "alreqxbtnk"
+    },
+    {
+      "nazwa1": "mkuvs",
+      "nazwa2": "qncowvdlcm"
+    },
+    {
+      "nazwa1": "azvpm",
+      "nazwa2": "fpganzgytz"
+    },
+    {
+      "nazwa1": "lwqqnsny",
+      "nazwa2": "zswihyc"
+    },
+    {
+      "nazwa1": "fevcotv",
+      "nazwa2": "wkelro"
+    },
+    {
+      "nazwa1": "lkgovvk",
+      "nazwa2": "nekkizaxu"
+    },
+    {
+      "nazwa1": "mvaifkg",
+      "nazwa2": "roapyjnngy"
+    },
+    {
+      "nazwa1": "zxnrrwp",
+      "nazwa2": "yhinu"
+    },
+    {
+      "nazwa1": "tqkmkbjbuw",
+      "nazwa2": "pmifyjao"
+    },
+    {
+      "nazwa1": "tcbtzpg",
+      "nazwa2": "wknhxfubx"
+    },
+    {
+      "nazwa1": "lofeygj",
+      "nazwa2": "gwmicb"
+    },
+    {
+      "nazwa1": "hprlqvl",
+      "nazwa2": "mkuvs"
+    },
+    {
+      "nazwa1": "uwnlzxb",
+      "nazwa2": "wfddifay"
+    },
+    {
+      "nazwa1": "hamhgps",
+      "nazwa2": "upqsspexoc"
+    },
+    {
+      "nazwa1": "oipmpta",
+      "nazwa2": "njbjojkvyk"
+    },
+    {
+      "nazwa1": "avretoe",
+      "nazwa2": "yrbbficx"
+    },
+    {
+      "nazwa1": "tikcvkkx",
+      "nazwa2": "opwlzjjjb"
+    },
+    {
+      "nazwa1": "wqqxk",
+      "nazwa2": "kpsvh"
+    },
+    {
+      "nazwa1": "fpganzgytz",
+      "nazwa2": "zgmorij"
+    },
+    {
+      "nazwa1": "qncowvdlcm",
+      "nazwa2": "wwrcphjjj"
+    },
+    {
+      "nazwa1": "nruko",
+      "nazwa2": "ymkorpwv"
+    },
+    {
+      "nazwa1": "wcmep",
+      "nazwa2": "atqxlz"
+    },
+    {
+      "nazwa1": "avretoe",
+      "nazwa2": "hqhzuuzbc"
+    },
+    {
+      "nazwa1": "witsxfew",
+      "nazwa2": "thjqrsya"
+    },
+    {
+      "nazwa1": "eihtiobbt",
+      "nazwa2": "ytscgetd"
+    },
+    {
+      "nazwa1": "ieeasiek",
+      "nazwa2": "ssswjd"
+    },
+    {
+      "nazwa1": "srzusxg",
+      "nazwa2": "ukhpckzm"
+    },
+    {
+      "nazwa1": "ubtla",
+      "nazwa2": "gyvsrox"
+    },
+    {
+      "nazwa1": "lwqqnsny",
+      "nazwa2": "zkmozcvwb"
+    },
+    {
+      "nazwa1": "azvpm",
+      "nazwa2": "vvjdzi"
+    },
+    {
+      "nazwa1": "oittbap",
+      "nazwa2": "ifrwkkasn"
+    },
+    {
+      "nazwa1": "jtumvyxb",
+      "nazwa2": "rmlmc"
+    },
+    {
+      "nazwa1": "qncowvdlcm",
+      "nazwa2": "vgqytztlqd"
+    },
+    {
+      "nazwa1": "mafnzlfkg",
+      "nazwa2": "ykyqnoiq"
+    },
+    {
+      "nazwa1": "owvqrx",
+      "nazwa2": "wknhxfubx"
+    },
+    {
+      "nazwa1": "ievwhqliwy",
+      "nazwa2": "sporudn"
+    },
+    {
+      "nazwa1": "zwgwlwfovt",
+      "nazwa2": "xhecj"
+    },
+    {
+      "nazwa1": "xwpltisq",
+      "nazwa2": "azvpm"
+    },
+    {
+      "nazwa1": "cxhrn",
+      "nazwa2": "nkolbljo"
+    },
+    {
+      "nazwa1": "jutecd",
+      "nazwa2": "hzzswp"
+    },
+    {
+      "nazwa1": "doiyq",
+      "nazwa2": "ngvlnlhf"
+    },
+    {
+      "nazwa1": "opwlzjjjb",
+      "nazwa2": "xtwrbxl"
+    },
+    {
+      "nazwa1": "xdktitb",
+      "nazwa2": "rogpjcgjup"
+    },
+    {
+      "nazwa1": "vvgeihyv",
+      "nazwa2": "znzgofpvk"
+    },
+    {
+      "nazwa1": "adnjagsla",
+      "nazwa2": "tozhthiox"
+    },
+    {
+      "nazwa1": "zfrdovu",
+      "nazwa2": "clytpjc"
+    },
+    {
+      "nazwa1": "hsbbi",
+      "nazwa2": "ftjsksf"
+    },
+    {
+      "nazwa1": "npqfkn",
+      "nazwa2": "wwrcphjjj"
+    },
+    {
+      "nazwa1": "wqqxk",
+      "nazwa2": "ymkorpwv"
+    },
+    {
+      "nazwa1": "wvevliou",
+      "nazwa2": "pgyxbr"
+    },
+    {
+      "nazwa1": "vvjdzi",
+      "nazwa2": "upqsspexoc"
+    },
+    {
+      "nazwa1": "xvitdjdvfv",
+      "nazwa2": "sojgn"
+    },
+    {
+      "nazwa1": "vgqytztlqd",
+      "nazwa2": "vvjdzi"
+    },
+    {
+      "nazwa1": "xmdtykmu",
+      "nazwa2": "ckaowufev"
+    },
+    {
+      "nazwa1": "wwrcphjjj",
+      "nazwa2": "hamhgps"
+    },
+    {
+      "nazwa1": "esyvljk",
+      "nazwa2": "thjqrsya"
+    },
+    {
+      "nazwa1": "tpuqfp",
+      "nazwa2": "yiztok"
+    },
+    {
+      "nazwa1": "yiztok",
+      "nazwa2": "nhcltetfr"
+    },
+    {
+      "nazwa1": "pohjjrjwd",
+      "nazwa2": "vgqytztlqd"
+    },
+    {
+      "nazwa1": "urnzulwk",
+      "nazwa2": "hzzswp"
+    },
+    {
+      "nazwa1": "esnhimoy",
+      "nazwa2": "jvwsooemdm"
+    },
+    {
+      "nazwa1": "mibvhptcfx",
+      "nazwa2": "vvjdzi"
+    },
+    {
+      "nazwa1": "kxxbtkp",
+      "nazwa2": "hijimf"
+    },
+    {
+      "nazwa1": "oilmhbap",
+      "nazwa2": "mkobquzffq"
+    },
+    {
+      "nazwa1": "baqmpq",
+      "nazwa2": "istlbbwp"
+    },
+    {
+      "nazwa1": "eaqlitev",
+      "nazwa2": "brwzmriam"
+    },
+    {
+      "nazwa1": "tsiybejnry",
+      "nazwa2": "lekclvzysr"
+    },
+    {
+      "nazwa1": "ubtla",
+      "nazwa2": "hprlqvl"
+    },
+    {
+      "nazwa1": "xdfdowm",
+      "nazwa2": "ukhpckzm"
+    },
+    {
+      "nazwa1": "rogpjcgjup",
+      "nazwa2": "vajgjajk"
+    },
+    {
+      "nazwa1": "rmlmc",
+      "nazwa2": "dlwtds"
+    },
+    {
+      "nazwa1": "xkqlsco",
+      "nazwa2": "qncowvdlcm"
+    },
+    {
+      "nazwa1": "hkirviq",
+      "nazwa2": "cjpzmf"
+    },
+    {
+      "nazwa1": "jtqtjxtuyo",
+      "nazwa2": "eybvpopaw"
+    },
+    {
+      "nazwa1": "istlbbwp",
+      "nazwa2": "rmlmc"
+    },
+    {
+      "nazwa1": "uwnlzxb",
+      "nazwa2": "jnexdd"
+    },
+    {
+      "nazwa1": "tqtnr",
+      "nazwa2": "clytpjc"
+    },
+    {
+      "nazwa1": "cjpzmf",
+      "nazwa2": "mclmdcu"
+    },
+    {
+      "nazwa1": "ltzzpp",
+      "nazwa2": "kyymdc"
+    },
+    {
+      "nazwa1": "vwdtz",
+      "nazwa2": "wrgio"
+    },
+    {
+      "nazwa1": "rjpredy",
+      "nazwa2": "boeztiwnmp"
+    },
+    {
+      "nazwa1": "ffqyzhzvh",
+      "nazwa2": "ukhpckzm"
+    },
+    {
+      "nazwa1": "tqkmkbjbuw",
+      "nazwa2": "zwgwlwfovt"
+    },
+    {
+      "nazwa1": "oemgtiuto",
+      "nazwa2": "isygcewqa"
+    },
+    {
+      "nazwa1": "dkgulxg",
+      "nazwa2": "kijnyidrq"
+    },
+    {
+      "nazwa1": "rqnjkev",
+      "nazwa2": "bcofocx"
+    },
+    {
+      "nazwa1": "xdfdowm",
+      "nazwa2": "lyncjhi"
+    },
+    {
+      "nazwa1": "wkelro",
+      "nazwa2": "zqlahr"
+    },
+    {
+      "nazwa1": "fevcotv",
+      "nazwa2": "woxhaq"
+    },
+    {
+      "nazwa1": "mtnnzh",
+      "nazwa2": "lcyaz"
+    },
+    {
+      "nazwa1": "hqhzuuzbc",
+      "nazwa2": "eaqlitev"
+    },
+    {
+      "nazwa1": "vajgjajk",
+      "nazwa2": "zucxycu"
+    },
+    {
+      "nazwa1": "vvjdzi",
+      "nazwa2": "eqcazui"
+    },
+    {
+      "nazwa1": "eqcazui",
+      "nazwa2": "cbvynneu"
+    },
+    {
+      "nazwa1": "wecbfzvx",
+      "nazwa2": "djnpmh"
+    },
+    {
+      "nazwa1": "cvkulscolq",
+      "nazwa2": "ianvxeptyk"
+    },
+    {
+      "nazwa1": "hzzswp",
+      "nazwa2": "rcqmajuom"
+    },
+    {
+      "nazwa1": "zbrnxwd",
+      "nazwa2": "jnrxwq"
+    },
+    {
+      "nazwa1": "cxkepd",
+      "nazwa2": "gwmicb"
+    },
+    {
+      "nazwa1": "icltvbpdw",
+      "nazwa2": "azvpm"
+    },
+    {
+      "nazwa1": "cbvynneu",
+      "nazwa2": "zfrdovu"
+    },
+    {
+      "nazwa1": "lmjfqvis",
+      "nazwa2": "awkqffgv"
+    },
+    {
+      "nazwa1": "vjerjgqwy",
+      "nazwa2": "idyddduru"
+    },
+    {
+      "nazwa1": "eyqxxqa",
+      "nazwa2": "boeztiwnmp"
+    },
+    {
+      "nazwa1": "uxlzycim",
+      "nazwa2": "ahurw"
+    },
+    {
+      "nazwa1": "yhinu",
+      "nazwa2": "zswihyc"
+    },
+    {
+      "nazwa1": "icltvbpdw",
+      "nazwa2": "xrzlrn"
+    },
+    {
+      "nazwa1": "lzctq",
+      "nazwa2": "kxdocdn"
+    },
+    {
+      "nazwa1": "tqkmkbjbuw",
+      "nazwa2": "wecbfzvx"
+    },
+    {
+      "nazwa1": "lzctq",
+      "nazwa2": "znzgofpvk"
+    },
+    {
+      "nazwa1": "xmdtykmu",
+      "nazwa2": "ddxoux"
+    },
+    {
+      "nazwa1": "xtwrbxl",
+      "nazwa2": "djnpmh"
+    },
+    {
+      "nazwa1": "fevcotv",
+      "nazwa2": "qfayfll"
+    },
+    {
+      "nazwa1": "qtmqw",
+      "nazwa2": "kihbjyub"
+    },
+    {
+      "nazwa1": "zbhxp",
+      "nazwa2": "mibvhptcfx"
+    },
+    {
+      "nazwa1": "jvwsooemdm",
+      "nazwa2": "iyaodddpw"
+    },
+    {
+      "nazwa1": "wptpktlc",
+      "nazwa2": "wkelro"
+    },
+    {
+      "nazwa1": "jvwsooemdm",
+      "nazwa2": "eglnzljcal"
+    },
+    {
+      "nazwa1": "ugvdswhz",
+      "nazwa2": "niyel"
+    },
+    {
+      "nazwa1": "upqsspexoc",
+      "nazwa2": "qlijecv"
+    },
+    {
+      "nazwa1": "cbvynneu",
+      "nazwa2": "jvwsooemdm"
+    },
+    {
+      "nazwa1": "ftjsksf",
+      "nazwa2": "jtqtjxtuyo"
+    },
+    {
+      "nazwa1": "wniqmbluog",
+      "nazwa2": "jnzykeqts"
+    },
+    {
+      "nazwa1": "esyvljk",
+      "nazwa2": "yrbbficx"
+    },
+    {
+      "nazwa1": "azcomzcp",
+      "nazwa2": "opwlzjjjb"
+    },
+    {
+      "nazwa1": "azvpm",
+      "nazwa2": "nkcavoren"
+    },
+    {
+      "nazwa1": "gzbliv",
+      "nazwa2": "ansisvxn"
+    },
+    {
+      "nazwa1": "azcomzcp",
+      "nazwa2": "zfrdovu"
+    },
+    {
+      "nazwa1": "txzlhr",
+      "nazwa2": "cbvynneu"
+    },
+    {
+      "nazwa1": "niyel",
+      "nazwa2": "dmobnkk"
+    },
+    {
+      "nazwa1": "ilorcpife",
+      "nazwa2": "ykyqnoiq"
+    },
+    {
+      "nazwa1": "baqmpq",
+      "nazwa2": "ligbfxu"
+    },
+    {
+      "nazwa1": "njmksahtep",
+      "nazwa2": "thjqrsya"
+    },
+    {
+      "nazwa1": "rblwexmz",
+      "nazwa2": "lcyaz"
+    },
+    {
+      "nazwa1": "alreqxbtnk",
+      "nazwa2": "hzzswp"
+    },
+    {
+      "nazwa1": "tsiybejnry",
+      "nazwa2": "esyvljk"
+    },
+    {
+      "nazwa1": "qtmqw",
+      "nazwa2": "ysvzgwnvyl"
+    },
+    {
+      "nazwa1": "lkgovvk",
+      "nazwa2": "mibvhptcfx"
+    },
+    {
+      "nazwa1": "kyymdc",
+      "nazwa2": "hamhgps"
+    },
+    {
+      "nazwa1": "ffqyzhzvh",
+      "nazwa2": "umbphkalza"
+    },
+    {
+      "nazwa1": "mafnzlfkg",
+      "nazwa2": "zkmozcvwb"
+    },
+    {
+      "nazwa1": "ybijfu",
+      "nazwa2": "qtsqfa"
+    },
+    {
+      "nazwa1": "rjpredy",
+      "nazwa2": "rffxvcmkg"
+    },
+    {
+      "nazwa1": "ltzzpp",
+      "nazwa2": "lofeygj"
+    },
+    {
+      "nazwa1": "cxkepd",
+      "nazwa2": "istlbbwp"
+    },
+    {
+      "nazwa1": "mtnnzh",
+      "nazwa2": "cbmoksmdst"
+    },
+    {
+      "nazwa1": "upqsspexoc",
+      "nazwa2": "ymkorpwv"
+    },
+    {
+      "nazwa1": "gzbliv",
+      "nazwa2": "vzhzteertc"
+    },
+    {
+      "nazwa1": "cwdfk",
+      "nazwa2": "qlijecv"
+    },
+    {
+      "nazwa1": "gnvgoq",
+      "nazwa2": "krgnzim"
+    },
+    {
+      "nazwa1": "zbimbfqle",
+      "nazwa2": "pmrhkon"
+    },
+    {
+      "nazwa1": "fjobnncvt",
+      "nazwa2": "szhmpbwd"
+    },
+    {
+      "nazwa1": "omqwpnjj",
+      "nazwa2": "jutecd"
+    },
+    {
+      "nazwa1": "rjltom",
+      "nazwa2": "bgkzypya"
+    },
+    {
+      "nazwa1": "witsxfew",
+      "nazwa2": "uommtzbxr"
+    },
+    {
+      "nazwa1": "nalil",
+      "nazwa2": "onchu"
+    },
+    {
+      "nazwa1": "wfddifay",
+      "nazwa2": "brwzmriam"
+    },
+    {
+      "nazwa1": "mvaifkg",
+      "nazwa2": "dhndicx"
+    },
+    {
+      "nazwa1": "jtqtjxtuyo",
+      "nazwa2": "sccpg"
+    },
+    {
+      "nazwa1": "npqfkn",
+      "nazwa2": "ghhjy"
+    },
+    {
+      "nazwa1": "cyfbzokx",
+      "nazwa2": "hqhzuuzbc"
+    },
+    {
+      "nazwa1": "azvpm",
+      "nazwa2": "rrqvojpqvi"
+    },
+    {
+      "nazwa1": "wrgio",
+      "nazwa2": "wwrcphjjj"
+    },
+    {
+      "nazwa1": "jhliiedhvr",
+      "nazwa2": "txwbipfccl"
+    },
+    {
+      "nazwa1": "reklmgutzq",
+      "nazwa2": "wfddifay"
+    },
+    {
+      "nazwa1": "hgdmkvy",
+      "nazwa2": "rrrgatyouz"
+    },
+    {
+      "nazwa1": "emnsh",
+      "nazwa2": "gzbliv"
+    },
+    {
+      "nazwa1": "wnbxnvph",
+      "nazwa2": "wvevliou"
+    },
+    {
+      "nazwa1": "ugvdswhz",
+      "nazwa2": "mkobquzffq"
+    },
+    {
+      "nazwa1": "jtumvyxb",
+      "nazwa2": "oiuuwzj"
+    },
+    {
+      "nazwa1": "bapopj",
+      "nazwa2": "kpsvh"
+    },
+    {
+      "nazwa1": "djlhemlc",
+      "nazwa2": "eaqlitev"
+    },
+    {
+      "nazwa1": "rjltom",
+      "nazwa2": "emnsh"
+    },
+    {
+      "nazwa1": "uprdu",
+      "nazwa2": "wknhxfubx"
+    },
+    {
+      "nazwa1": "boeztiwnmp",
+      "nazwa2": "lofeygj"
+    },
+    {
+      "nazwa1": "oxbvrtesl",
+      "nazwa2": "emnsh"
+    },
+    {
+      "nazwa1": "djlhemlc",
+      "nazwa2": "tosotb"
+    },
+    {
+      "nazwa1": "doiyq",
+      "nazwa2": "niyel"
+    },
+    {
+      "nazwa1": "iyaodddpw",
+      "nazwa2": "uooozkvp"
+    },
+    {
+      "nazwa1": "yuxhrkl",
+      "nazwa2": "srzusxg"
+    },
+    {
+      "nazwa1": "wknhxfubx",
+      "nazwa2": "dnyhmruvne"
+    },
+    {
+      "nazwa1": "ubtla",
+      "nazwa2": "hkirviq"
+    },
+    {
+      "nazwa1": "jhliiedhvr",
+      "nazwa2": "rffxvcmkg"
+    },
+    {
+      "nazwa1": "bujjdokek",
+      "nazwa2": "hkirviq"
+    },
+    {
+      "nazwa1": "ansisvxn",
+      "nazwa2": "dnyhmruvne"
+    },
+    {
+      "nazwa1": "zucxycu",
+      "nazwa2": "objtfmkmlt"
+    },
+    {
+      "nazwa1": "mibvhptcfx",
+      "nazwa2": "nposwxmdk"
+    },
+    {
+      "nazwa1": "kxdocdn",
+      "nazwa2": "lekclvzysr"
+    },
+    {
+      "nazwa1": "farzftm",
+      "nazwa2": "qtsqfa"
+    },
+    {
+      "nazwa1": "umbphkalza",
+      "nazwa2": "vzhzteertc"
+    },
+    {
+      "nazwa1": "gzbliv",
+      "nazwa2": "uheizqi"
+    },
+    {
+      "nazwa1": "jofkwjztut",
+      "nazwa2": "rncso"
+    },
+    {
+      "nazwa1": "rcqmajuom",
+      "nazwa2": "fevcotv"
+    },
+    {
+      "nazwa1": "eihtiobbt",
+      "nazwa2": "qncowvdlcm"
+    },
+    {
+      "nazwa1": "xkqlsco",
+      "nazwa2": "wwrcphjjj"
+    },
+    {
+      "nazwa1": "lwqqnsny",
+      "nazwa2": "lofeygj"
+    },
+    {
+      "nazwa1": "lyncjhi",
+      "nazwa2": "kihbjyub"
+    },
+    {
+      "nazwa1": "duguqzxuvl",
+      "nazwa2": "oxbvrtesl"
+    },
+    {
+      "nazwa1": "uxlzycim",
+      "nazwa2": "sporudn"
+    },
+    {
+      "nazwa1": "thjqrsya",
+      "nazwa2": "icltvbpdw"
+    },
+    {
+      "nazwa1": "duguqzxuvl",
+      "nazwa2": "vvjdzi"
+    },
+    {
+      "nazwa1": "wkelro",
+      "nazwa2": "sporudn"
+    },
+    {
+      "nazwa1": "mibvhptcfx",
+      "nazwa2": "ueqjilhs"
+    },
+    {
+      "nazwa1": "hnfoufxbix",
+      "nazwa2": "mibvhptcfx"
+    },
+    {
+      "nazwa1": "jtumvyxb",
+      "nazwa2": "iyaodddpw"
+    },
+    {
+      "nazwa1": "xmdtykmu",
+      "nazwa2": "hsbbi"
+    },
+    {
+      "nazwa1": "fjobnncvt",
+      "nazwa2": "lwqqnsny"
+    },
+    {
+      "nazwa1": "bbnysbx",
+      "nazwa2": "zbrnxwd"
+    },
+    {
+      "nazwa1": "ilorcpife",
+      "nazwa2": "lofeygj"
+    },
+    {
+      "nazwa1": "jnexdd",
+      "nazwa2": "wkelro"
+    },
+    {
+      "nazwa1": "lekclvzysr",
+      "nazwa2": "qfayfll"
+    },
+    {
+      "nazwa1": "svybywkgff",
+      "nazwa2": "usxpt"
+    },
+    {
+      "nazwa1": "bujjdokek",
+      "nazwa2": "oxbvrtesl"
+    },
+    {
+      "nazwa1": "txcwep",
+      "nazwa2": "fjobnncvt"
+    },
+    {
+      "nazwa1": "bcofocx",
+      "nazwa2": "nkolbljo"
+    },
+    {
+      "nazwa1": "ilorcpife",
+      "nazwa2": "rcqmajuom"
+    },
+    {
+      "nazwa1": "onchu",
+      "nazwa2": "vzhzteertc"
+    },
+    {
+      "nazwa1": "knuqlo",
+      "nazwa2": "uxlzycim"
+    },
+    {
+      "nazwa1": "apslpnejhh",
+      "nazwa2": "bgkzypya"
+    },
+    {
+      "nazwa1": "yrbbficx",
+      "nazwa2": "qxavjyf"
+    },
+    {
+      "nazwa1": "lzctq",
+      "nazwa2": "eybvpopaw"
+    },
+    {
+      "nazwa1": "umbphkalza",
+      "nazwa2": "wvevliou"
+    },
+    {
+      "nazwa1": "kilasem",
+      "nazwa2": "jeqdo"
+    },
+    {
+      "nazwa1": "jutecd",
+      "nazwa2": "wcmep"
+    },
+    {
+      "nazwa1": "tcbtzpg",
+      "nazwa2": "cxkepd"
+    },
+    {
+      "nazwa1": "uooozkvp",
+      "nazwa2": "fpganzgytz"
+    },
+    {
+      "nazwa1": "cbmoksmdst",
+      "nazwa2": "fjobnncvt"
+    },
+    {
+      "nazwa1": "wfddifay",
+      "nazwa2": "khisu"
+    },
+    {
+      "nazwa1": "yuxhrkl",
+      "nazwa2": "xdktitb"
+    },
+    {
+      "nazwa1": "onchu",
+      "nazwa2": "cxkepd"
+    },
+    {
+      "nazwa1": "ifrwkkasn",
+      "nazwa2": "mtnnzh"
+    },
+    {
+      "nazwa1": "zgmorij",
+      "nazwa2": "ilorcpife"
+    },
+    {
+      "nazwa1": "oilmhbap",
+      "nazwa2": "pmifyjao"
+    },
+    {
+      "nazwa1": "witsxfew",
+      "nazwa2": "wmeawulmgb"
+    },
+    {
+      "nazwa1": "ltzzpp",
+      "nazwa2": "zbhxp"
+    },
+    {
+      "nazwa1": "ghhjy",
+      "nazwa2": "wfddifay"
+    },
+    {
+      "nazwa1": "vzhzteertc",
+      "nazwa2": "oiuuwzj"
+    },
+    {
+      "nazwa1": "zucxycu",
+      "nazwa2": "vjerjgqwy"
+    },
+    {
+      "nazwa1": "kihbjyub",
+      "nazwa2": "sccpg"
+    },
+    {
+      "nazwa1": "vgqytztlqd",
+      "nazwa2": "oilmhbap"
+    },
+    {
+      "nazwa1": "knuqlo",
+      "nazwa2": "eqcazui"
+    },
+    {
+      "nazwa1": "ftjsksf",
+      "nazwa2": "ukhpckzm"
+    },
+    {
+      "nazwa1": "zbhxp",
+      "nazwa2": "jnzykeqts"
+    },
+    {
+      "nazwa1": "woxhaq",
+      "nazwa2": "kxxbtkp"
+    },
+    {
+      "nazwa1": "adnjagsla",
+      "nazwa2": "lcyaz"
+    },
+    {
+      "nazwa1": "icltvbpdw",
+      "nazwa2": "lwqqnsny"
+    },
+    {
+      "nazwa1": "doiyq",
+      "nazwa2": "umbphkalza"
+    },
+    {
+      "nazwa1": "ymkorpwv",
+      "nazwa2": "wecbfzvx"
+    },
+    {
+      "nazwa1": "lyncjhi",
+      "nazwa2": "kxxbtkp"
+    },
+    {
+      "nazwa1": "reklmgutzq",
+      "nazwa2": "apslpnejhh"
+    },
+    {
+      "nazwa1": "alreqxbtnk",
+      "nazwa2": "eglnzljcal"
+    },
+    {
+      "nazwa1": "cjpzmf",
+      "nazwa2": "eoozosdu"
+    },
+    {
+      "nazwa1": "zyjst",
+      "nazwa2": "wmeawulmgb"
+    },
+    {
+      "nazwa1": "sporudn",
+      "nazwa2": "ngvlnlhf"
+    },
+    {
+      "nazwa1": "tsiybejnry",
+      "nazwa2": "yhinu"
+    },
+    {
+      "nazwa1": "uerzppenbn",
+      "nazwa2": "jtumvyxb"
+    },
+    {
+      "nazwa1": "nhcltetfr",
+      "nazwa2": "zswihyc"
+    },
+    {
+      "nazwa1": "ieeasiek",
+      "nazwa2": "zwgwlwfovt"
+    },
+    {
+      "nazwa1": "mvaifkg",
+      "nazwa2": "nposwxmdk"
+    },
+    {
+      "nazwa1": "ioalphctro",
+      "nazwa2": "emnsh"
+    }
+  ],
+  "cel": {
+    "cholesterol": {
+      "min": 158.5,
+      "max": 309.8
+    },
+    "tluszcz": {
+      "min": 193.2,
+      "max": 309.6
+    },
+    "zelazo": {
+      "min": 76.5,
+      "max": 466.4
+    },
+    "weglowodany": {
+      "min": 76.8,
+      "max": 223.4
+    }
+  }
+}

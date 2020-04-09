@@ -1,0 +1,360 @@
+{
+  "parametry": [
+    "witamina B",
+    "bialkowitamina A",
+    "kalorie",
+    "zelazo",
+    "sod",
+    "wapn"
+  ],
+  "skladniki": [
+    {
+      "witamina B": 6.3,
+      "bialkowitamina A": 2.2,
+      "kalorie": 3.2,
+      "zelazo": 1.0,
+      "sod": 3.5,
+      "wapn": 4.5,
+      "nazwa": "molrezh"
+    },
+    {
+      "witamina B": 6.3,
+      "bialkowitamina A": 1.6,
+      "kalorie": 8.9,
+      "zelazo": 9.6,
+      "sod": 1.5,
+      "wapn": 8.1,
+      "nazwa": "uoscaigrmo"
+    },
+    {
+      "witamina B": 6.1,
+      "bialkowitamina A": 3.7,
+      "kalorie": 1.4,
+      "zelazo": 0.4,
+      "sod": 5.0,
+      "wapn": 1.8,
+      "nazwa": "rjjuglcz"
+    },
+    {
+      "witamina B": 6.0,
+      "bialkowitamina A": 3.0,
+      "kalorie": 2.5,
+      "zelazo": 5.9,
+      "sod": 3.4,
+      "wapn": 8.7,
+      "nazwa": "oiucgillof"
+    },
+    {
+      "witamina B": 7.3,
+      "bialkowitamina A": 2.8,
+      "kalorie": 3.7,
+      "zelazo": 6.5,
+      "sod": 5.9,
+      "wapn": 5.8,
+      "nazwa": "sdwooffjby"
+    },
+    {
+      "witamina B": 9.5,
+      "bialkowitamina A": 4.5,
+      "kalorie": 3.1,
+      "zelazo": 1.0,
+      "sod": 1.4,
+      "wapn": 2.6,
+      "nazwa": "pxbpmeprzu"
+    },
+    {
+      "witamina B": 8.3,
+      "bialkowitamina A": 6.6,
+      "kalorie": 6.5,
+      "zelazo": 9.9,
+      "sod": 2.7,
+      "wapn": 4.1,
+      "nazwa": "zueeal"
+    },
+    {
+      "witamina B": 4.4,
+      "bialkowitamina A": 6.3,
+      "kalorie": 8.0,
+      "zelazo": 6.5,
+      "sod": 2.0,
+      "wapn": 2.9,
+      "nazwa": "awvdt"
+    },
+    {
+      "witamina B": 1.4,
+      "bialkowitamina A": 2.7,
+      "kalorie": 4.5,
+      "zelazo": 3.9,
+      "sod": 3.3,
+      "wapn": 4.2,
+      "nazwa": "pguyvoidkt"
+    },
+    {
+      "witamina B": 6.8,
+      "bialkowitamina A": 2.9,
+      "kalorie": 7.2,
+      "zelazo": 10.0,
+      "sod": 2.1,
+      "wapn": 3.2,
+      "nazwa": "ovzavm"
+    },
+    {
+      "witamina B": 7.2,
+      "bialkowitamina A": 5.5,
+      "kalorie": 5.2,
+      "zelazo": 2.3,
+      "sod": 5.6,
+      "wapn": 7.0,
+      "nazwa": "qjlhdvtd"
+    },
+    {
+      "witamina B": 3.6,
+      "bialkowitamina A": 8.3,
+      "kalorie": 3.9,
+      "zelazo": 4.5,
+      "sod": 1.0,
+      "wapn": 6.4,
+      "nazwa": "sapsrrcm"
+    },
+    {
+      "witamina B": 9.4,
+      "bialkowitamina A": 8.3,
+      "kalorie": 4.3,
+      "zelazo": 4.6,
+      "sod": 1.6,
+      "wapn": 6.8,
+      "nazwa": "upaujeynal"
+    },
+    {
+      "witamina B": 6.8,
+      "bialkowitamina A": 0.2,
+      "kalorie": 3.5,
+      "zelazo": 4.6,
+      "sod": 9.8,
+      "wapn": 2.2,
+      "nazwa": "szrxwgy"
+    },
+    {
+      "witamina B": 7.5,
+      "bialkowitamina A": 5.8,
+      "kalorie": 3.8,
+      "zelazo": 4.6,
+      "sod": 7.3,
+      "wapn": 1.7,
+      "nazwa": "cnxskrh"
+    },
+    {
+      "witamina B": 0.1,
+      "bialkowitamina A": 8.8,
+      "kalorie": 2.0,
+      "zelazo": 7.3,
+      "sod": 8.4,
+      "wapn": 4.9,
+      "nazwa": "aqxfvant"
+    },
+    {
+      "witamina B": 0.6,
+      "bialkowitamina A": 4.2,
+      "kalorie": 2.5,
+      "zelazo": 9.1,
+      "sod": 8.4,
+      "wapn": 9.5,
+      "nazwa": "sxfamoavv"
+    },
+    {
+      "witamina B": 9.3,
+      "bialkowitamina A": 9.4,
+      "kalorie": 0.2,
+      "zelazo": 3.8,
+      "sod": 0.9,
+      "wapn": 7.3,
+      "nazwa": "kyhft"
+    },
+    {
+      "witamina B": 7.5,
+      "bialkowitamina A": 8.6,
+      "kalorie": 6.2,
+      "zelazo": 4.8,
+      "sod": 6.6,
+      "wapn": 2.0,
+      "nazwa": "dpckhey"
+    },
+    {
+      "witamina B": 1.6,
+      "bialkowitamina A": 7.8,
+      "kalorie": 5.7,
+      "zelazo": 7.1,
+      "sod": 3.3,
+      "wapn": 8.1,
+      "nazwa": "uahot"
+    }
+  ],
+  "konflikty": [
+    {
+      "nazwa1": "molrezh",
+      "nazwa2": "uahot"
+    },
+    {
+      "nazwa1": "sdwooffjby",
+      "nazwa2": "sdwooffjby"
+    },
+    {
+      "nazwa1": "cnxskrh",
+      "nazwa2": "uahot"
+    },
+    {
+      "nazwa1": "sapsrrcm",
+      "nazwa2": "pxbpmeprzu"
+    },
+    {
+      "nazwa1": "sapsrrcm",
+      "nazwa2": "aqxfvant"
+    },
+    {
+      "nazwa1": "rjjuglcz",
+      "nazwa2": "uahot"
+    },
+    {
+      "nazwa1": "sdwooffjby",
+      "nazwa2": "upaujeynal"
+    },
+    {
+      "nazwa1": "rjjuglcz",
+      "nazwa2": "cnxskrh"
+    },
+    {
+      "nazwa1": "molrezh",
+      "nazwa2": "dpckhey"
+    },
+    {
+      "nazwa1": "molrezh",
+      "nazwa2": "rjjuglcz"
+    },
+    {
+      "nazwa1": "dpckhey",
+      "nazwa2": "pguyvoidkt"
+    },
+    {
+      "nazwa1": "pguyvoidkt",
+      "nazwa2": "sapsrrcm"
+    },
+    {
+      "nazwa1": "oiucgillof",
+      "nazwa2": "rjjuglcz"
+    },
+    {
+      "nazwa1": "uahot",
+      "nazwa2": "upaujeynal"
+    },
+    {
+      "nazwa1": "pxbpmeprzu",
+      "nazwa2": "awvdt"
+    },
+    {
+      "nazwa1": "zueeal",
+      "nazwa2": "uahot"
+    },
+    {
+      "nazwa1": "molrezh",
+      "nazwa2": "sxfamoavv"
+    },
+    {
+      "nazwa1": "kyhft",
+      "nazwa2": "zueeal"
+    },
+    {
+      "nazwa1": "sapsrrcm",
+      "nazwa2": "sxfamoavv"
+    },
+    {
+      "nazwa1": "awvdt",
+      "nazwa2": "szrxwgy"
+    },
+    {
+      "nazwa1": "cnxskrh",
+      "nazwa2": "cnxskrh"
+    },
+    {
+      "nazwa1": "sxfamoavv",
+      "nazwa2": "sdwooffjby"
+    },
+    {
+      "nazwa1": "upaujeynal",
+      "nazwa2": "kyhft"
+    },
+    {
+      "nazwa1": "uoscaigrmo",
+      "nazwa2": "pguyvoidkt"
+    },
+    {
+      "nazwa1": "uoscaigrmo",
+      "nazwa2": "dpckhey"
+    },
+    {
+      "nazwa1": "awvdt",
+      "nazwa2": "cnxskrh"
+    },
+    {
+      "nazwa1": "ovzavm",
+      "nazwa2": "sapsrrcm"
+    },
+    {
+      "nazwa1": "ovzavm",
+      "nazwa2": "upaujeynal"
+    },
+    {
+      "nazwa1": "molrezh",
+      "nazwa2": "upaujeynal"
+    },
+    {
+      "nazwa1": "uahot",
+      "nazwa2": "uoscaigrmo"
+    },
+    {
+      "nazwa1": "awvdt",
+      "nazwa2": "pxbpmeprzu"
+    },
+    {
+      "nazwa1": "sxfamoavv",
+      "nazwa2": "sxfamoavv"
+    },
+    {
+      "nazwa1": "zueeal",
+      "nazwa2": "uahot"
+    },
+    {
+      "nazwa1": "szrxwgy",
+      "nazwa2": "szrxwgy"
+    },
+    {
+      "nazwa1": "zueeal",
+      "nazwa2": "sxfamoavv"
+    }
+  ],
+  "cel": {
+    "witamina B": {
+      "min": 92.0,
+      "max": 134.9
+    },
+    "bialkowitamina A": {
+      "min": 43.4,
+      "max": 153.6
+    },
+    "kalorie": {
+      "min": 111.7,
+      "max": 117.0
+    },
+    "zelazo": {
+      "min": 296.5,
+      "max": 374.1
+    },
+    "sod": {
+      "min": 64.0,
+      "max": 391.7
+    },
+    "wapn": {
+      "min": 360.0,
+      "max": 477.9
+    }
+  }
+}

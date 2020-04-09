@@ -1,0 +1,299 @@
+{
+  "parametry": [
+    "tluszcz",
+    "witamina B",
+    "cholesterol",
+    "bialkowitamina A",
+    "zelazo"
+  ],
+  "składniki": [
+    {
+      "tluszcz": 5.1,
+      "witamina B": 4.4,
+      "cholesterol": 4.5,
+      "bialkowitamina A": 0.4,
+      "zelazo": 7.1,
+      "nazwa": "qiyzehj"
+    },
+    {
+      "tluszcz": 6.4,
+      "witamina B": 3.0,
+      "cholesterol": 2.5,
+      "bialkowitamina A": 4.4,
+      "zelazo": 5.9,
+      "nazwa": "sysan"
+    },
+    {
+      "tluszcz": 3.1,
+      "witamina B": 1.8,
+      "cholesterol": 9.6,
+      "bialkowitamina A": 4.7,
+      "zelazo": 1.1,
+      "nazwa": "yzkgggqj"
+    },
+    {
+      "tluszcz": 7.3,
+      "witamina B": 1.8,
+      "cholesterol": 9.8,
+      "bialkowitamina A": 6.6,
+      "zelazo": 0.7,
+      "nazwa": "eeadbq"
+    },
+    {
+      "tluszcz": 1.8,
+      "witamina B": 7.2,
+      "cholesterol": 1.7,
+      "bialkowitamina A": 4.4,
+      "zelazo": 4.0,
+      "nazwa": "yrpuh"
+    },
+    {
+      "tluszcz": 2.2,
+      "witamina B": 3.2,
+      "cholesterol": 3.0,
+      "bialkowitamina A": 10.0,
+      "zelazo": 7.6,
+      "nazwa": "ctnolhjfbe"
+    },
+    {
+      "tluszcz": 4.6,
+      "witamina B": 4.7,
+      "cholesterol": 7.6,
+      "bialkowitamina A": 8.7,
+      "zelazo": 9.3,
+      "nazwa": "xaowihzxet"
+    },
+    {
+      "tluszcz": 6.2,
+      "witamina B": 6.1,
+      "cholesterol": 7.8,
+      "bialkowitamina A": 5.6,
+      "zelazo": 4.7,
+      "nazwa": "ejgqe"
+    },
+    {
+      "tluszcz": 3.9,
+      "witamina B": 7.2,
+      "cholesterol": 2.2,
+      "bialkowitamina A": 2.8,
+      "zelazo": 1.7,
+      "nazwa": "buqfcp"
+    },
+    {
+      "tluszcz": 9.3,
+      "witamina B": 0.8,
+      "cholesterol": 7.8,
+      "bialkowitamina A": 5.6,
+      "zelazo": 4.5,
+      "nazwa": "grqaqcjn"
+    },
+    {
+      "tluszcz": 1.7,
+      "witamina B": 2.4,
+      "cholesterol": 5.0,
+      "bialkowitamina A": 5.5,
+      "zelazo": 2.5,
+      "nazwa": "nwqkhwauks"
+    },
+    {
+      "tluszcz": 7.3,
+      "witamina B": 0.8,
+      "cholesterol": 9.6,
+      "bialkowitamina A": 6.9,
+      "zelazo": 7.2,
+      "nazwa": "xscedcub"
+    },
+    {
+      "tluszcz": 7.3,
+      "witamina B": 1.9,
+      "cholesterol": 1.6,
+      "bialkowitamina A": 8.3,
+      "zelazo": 4.4,
+      "nazwa": "cdecuy"
+    },
+    {
+      "tluszcz": 4.5,
+      "witamina B": 9.9,
+      "cholesterol": 3.9,
+      "bialkowitamina A": 9.4,
+      "zelazo": 0.8,
+      "nazwa": "idqcdu"
+    },
+    {
+      "tluszcz": 1.5,
+      "witamina B": 6.5,
+      "cholesterol": 9.8,
+      "bialkowitamina A": 7.7,
+      "zelazo": 8.9,
+      "nazwa": "dbmtsvvc"
+    },
+    {
+      "tluszcz": 8.1,
+      "witamina B": 2.4,
+      "cholesterol": 4.3,
+      "bialkowitamina A": 6.0,
+      "zelazo": 7.7,
+      "nazwa": "hlgfwef"
+    },
+    {
+      "tluszcz": 4.9,
+      "witamina B": 6.5,
+      "cholesterol": 6.1,
+      "bialkowitamina A": 4.0,
+      "zelazo": 2.7,
+      "nazwa": "gukph"
+    },
+    {
+      "tluszcz": 4.5,
+      "witamina B": 0.9,
+      "cholesterol": 3.9,
+      "bialkowitamina A": 8.4,
+      "zelazo": 9.1,
+      "nazwa": "xndayz"
+    },
+    {
+      "tluszcz": 7.1,
+      "witamina B": 1.8,
+      "cholesterol": 2.9,
+      "bialkowitamina A": 7.0,
+      "zelazo": 0.2,
+      "nazwa": "fxtwl"
+    },
+    {
+      "tluszcz": 4.3,
+      "witamina B": 5.2,
+      "cholesterol": 1.4,
+      "bialkowitamina A": 1.0,
+      "zelazo": 5.6,
+      "nazwa": "ekkotayui"
+    }
+  ],
+  "konflikty": [
+    {
+      "nazwa1": "xndayz",
+      "nazwa2": "ejgqe"
+    },
+    {
+      "nazwa1": "dbmtsvvc",
+      "nazwa2": "nwqkhwauks"
+    },
+    {
+      "nazwa1": "hlgfwef",
+      "nazwa2": "ejgqe"
+    },
+    {
+      "nazwa1": "yrpuh",
+      "nazwa2": "grqaqcjn"
+    },
+    {
+      "nazwa1": "cdecuy",
+      "nazwa2": "yzkgggqj"
+    },
+    {
+      "nazwa1": "ejgqe",
+      "nazwa2": "qiyzehj"
+    },
+    {
+      "nazwa1": "xndayz",
+      "nazwa2": "yrpuh"
+    },
+    {
+      "nazwa1": "nwqkhwauks",
+      "nazwa2": "gukph"
+    },
+    {
+      "nazwa1": "sysan",
+      "nazwa2": "sysan"
+    },
+    {
+      "nazwa1": "sysan",
+      "nazwa2": "gukph"
+    },
+    {
+      "nazwa1": "nwqkhwauks",
+      "nazwa2": "qiyzehj"
+    },
+    {
+      "nazwa1": "nwqkhwauks",
+      "nazwa2": "yzkgggqj"
+    },
+    {
+      "nazwa1": "ctnolhjfbe",
+      "nazwa2": "hlgfwef"
+    },
+    {
+      "nazwa1": "grqaqcjn",
+      "nazwa2": "cdecuy"
+    },
+    {
+      "nazwa1": "qiyzehj",
+      "nazwa2": "yrpuh"
+    },
+    {
+      "nazwa1": "sysan",
+      "nazwa2": "buqfcp"
+    },
+    {
+      "nazwa1": "ekkotayui",
+      "nazwa2": "xscedcub"
+    },
+    {
+      "nazwa1": "yzkgggqj",
+      "nazwa2": "gukph"
+    },
+    {
+      "nazwa1": "xaowihzxet",
+      "nazwa2": "eeadbq"
+    },
+    {
+      "nazwa1": "qiyzehj",
+      "nazwa2": "hlgfwef"
+    },
+    {
+      "nazwa1": "nwqkhwauks",
+      "nazwa2": "ekkotayui"
+    },
+    {
+      "nazwa1": "ctnolhjfbe",
+      "nazwa2": "idqcdu"
+    },
+    {
+      "nazwa1": "cdecuy",
+      "nazwa2": "buqfcp"
+    },
+    {
+      "nazwa1": "nwqkhwauks",
+      "nazwa2": "yzkgggqj"
+    },
+    {
+      "nazwa1": "xaowihzxet",
+      "nazwa2": "qiyzehj"
+    },
+    {
+      "nazwa1": "sysan",
+      "nazwa2": "nwqkhwauks"
+    }
+  ],
+  "cel": {
+    "tluszcz": {
+      "min": 29.5,
+      "max": 60.9
+    },
+    "witamina B": {
+      "min": 75.9,
+      "max": 465.5
+    },
+    "cholesterol": {
+      "min": 24.0,
+      "max": 60.0
+    },
+    "bialkowitamina A": {
+      "min": 119.8,
+      "max": 421.0
+    },
+    "zelazo": {
+      "min": 18.0,
+      "max": 171.8
+    }
+  }
+}
